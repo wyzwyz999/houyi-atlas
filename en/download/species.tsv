@@ -1,0 +1,565 @@
+species_id	list_no	latin	zh	synonym	aliases	merged_from	category	disease	priority	gram	phylum	class	order	family	taxid	tax_match	source
+staphylococcus_aureus	1	Staphylococcus aureus	金黄色葡萄球菌				病原菌	皮肤软组织感染、菌血症、心内膜炎、骨髓炎、MRSA	高	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1280	species	医学微生物学/CDC/文献
+streptococcus_pneumoniae	2	Streptococcus pneumoniae	肺炎链球菌				病原菌	肺炎、脑膜炎、中耳炎、菌血症	高	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1313	species	医学微生物学/CDC/文献
+streptococcus_pyogenes	3	Streptococcus pyogenes	化脓性链球菌(A组)				病原菌	咽炎、丹毒、坏死性筋膜炎、风湿热	高	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1314	species	医学微生物学/CDC/文献
+streptococcus_agalactiae	4	Streptococcus agalactiae	无乳链球菌(B组)				病原菌	新生儿败血症/脑膜炎、产妇感染	高	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1311	species	医学微生物学/CDC/文献
+streptococcus_suis	5	Streptococcus suis	猪链球菌				病原菌	猪链球菌病、脑膜炎(人兽共患)	高	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1307	species	医学微生物学/CDC/文献
+enterococcus_faecalis	6	Enterococcus faecalis	粪肠球菌				机会致病菌	尿路感染、心内膜炎、VRE	高	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	1351	species	医学微生物学/CDC/文献
+enterococcus_faecium	7	Enterococcus faecium	屎肠球菌				机会致病菌	医院感染、VRE、菌血症	高	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	1352	species	医学微生物学/CDC/文献
+bacillus_anthracis	8	Bacillus anthracis	炭疽芽孢杆菌				病原菌	炭疽(皮肤/肺/肠)	高	阳性	Bacillota	Bacilli	Caryophanales	Bacillaceae	1392	species	医学微生物学/CDC/文献
+clostridium_tetani	9	Clostridium tetani	破伤风梭菌				病原菌	破伤风	高	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1513	species	医学微生物学/CDC/文献
+clostridium_botulinum	10	Clostridium botulinum	肉毒梭菌				病原菌	肉毒中毒	高	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1491	species	医学微生物学/CDC/文献
+clostridium_perfringens	11	Clostridium perfringens	产气荚膜梭菌				病原菌	气性坏疽、食物中毒	高	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1502	species	医学微生物学/CDC/文献
+clostridioides_difficile	12	Clostridioides difficile	艰难梭菌				机会致病菌	抗生素相关腹泻、伪膜性肠炎	高	阳性	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	1496	species	医学微生物学/CDC/文献
+corynebacterium_diphtheriae	13	Corynebacterium diphtheriae	白喉棒杆菌				病原菌	白喉	高	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	1717	species	医学微生物学/CDC/文献
+listeria_monocytogenes	14	Listeria monocytogenes	单核细胞增生李斯特菌				病原菌	李斯特菌病、脑膜炎、流产	高	阳性	Bacillota	Bacilli	Caryophanales	Listeriaceae	1639	species	医学微生物学/CDC/文献
+mycobacterium_tuberculosis	15	Mycobacterium tuberculosis	结核分枝杆菌				病原菌	结核病	高	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1773	species	医学微生物学/CDC/文献
+mycobacterium_leprae	16	Mycobacterium leprae	麻风分枝杆菌				病原菌	麻风	高	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1769	species	医学微生物学/CDC/文献
+neisseria_meningitidis	17	Neisseria meningitidis	脑膜炎奈瑟菌				病原菌	流行性脑膜炎、败血症	高	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	487	species	医学微生物学/CDC/文献
+neisseria_gonorrhoeae	18	Neisseria gonorrhoeae	淋病奈瑟菌				病原菌	淋病、盆腔炎	高	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	485	species	医学微生物学/CDC/文献
+escherichia_coli	19	Escherichia coli	大肠埃希菌				机会致病菌	尿路感染、菌血症、腹腔感染(机会株)	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+escherichia_coli_o157_h7	20	Escherichia coli O157:H7	大肠埃希菌O157:H7				病原菌	出血性肠炎、HUS	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+shigella_dysenteriae	21	Shigella dysenteriae	痢疾志贺菌				病原菌	细菌性痢疾	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	622	species	医学微生物学/CDC/文献
+shigella_flexneri	22	Shigella flexneri	福氏志贺菌				病原菌	细菌性痢疾	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	623	species	医学微生物学/CDC/文献
+salmonella_enterica_typhi	23	Salmonella enterica Typhi	伤寒沙门菌				病原菌	伤寒	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	28901	species	医学微生物学/CDC/文献
+salmonella_enterica_paratyphi	24	Salmonella enterica Paratyphi	副伤寒沙门菌				病原菌	副伤寒	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	28901	species	医学微生物学/CDC/文献
+salmonella_enterica	25	Salmonella enterica (非伤寒)	非伤寒沙门菌				病原菌	胃肠炎、菌血症	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	28901	species	医学微生物学/CDC/文献
+salmonella_enterica_typhimurium	26	Salmonella enterica Typhimurium	鼠伤寒沙门菌				病原菌	胃肠炎	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	28901	species	医学微生物学/CDC/文献
+salmonella_enterica_enteritidis	27	Salmonella enterica Enteritidis	肠炎沙门菌				病原菌	胃肠炎	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	28901	species	医学微生物学/CDC/文献
+klebsiella_pneumoniae	28	Klebsiella pneumoniae	肺炎克雷伯菌				机会致病菌	肺炎、尿路感染、CRKP、肝脓肿	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	573	species	医学微生物学/CDC/文献
+enterobacter_cloacae	29	Enterobacter cloacae	阴沟肠杆菌				机会致病菌	医院感染、CRE	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	547	genus	医学微生物学/CDC/文献
+yersinia_pestis	30	Yersinia pestis	鼠疫耶尔森菌				病原菌	鼠疫	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	632	species	医学微生物学/CDC/文献
+pseudomonas_aeruginosa	31	Pseudomonas aeruginosa	铜绿假单胞菌				机会致病菌	医院感染、烧伤、囊性纤维化、CRPA	高	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	287	species	医学微生物学/CDC/文献
+acinetobacter_baumannii	32	Acinetobacter baumannii	鲍曼不动杆菌				机会致病菌	医院感染、呼吸机相关肺炎、CRAB	高	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	470	species	医学微生物学/CDC/文献
+burkholderia_pseudomallei	33	Burkholderia pseudomallei	类鼻疽伯克霍尔德菌				病原菌	类鼻疽	高	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	28450	species	医学微生物学/CDC/文献
+burkholderia_mallei	34	Burkholderia mallei	鼻疽伯克霍尔德菌				病原菌	鼻疽	高	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	13373	species	医学微生物学/CDC/文献
+haemophilus_influenzae	35	Haemophilus influenzae	流感嗜血杆菌				病原菌	脑膜炎、肺炎、中耳炎	高	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	727	species	医学微生物学/CDC/文献
+bordetella_pertussis	36	Bordetella pertussis	百日咳鲍特菌				病原菌	百日咳	高	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	520	species	医学微生物学/CDC/文献
+brucella_melitensis	37	Brucella melitensis	羊种布鲁菌				病原菌	布鲁菌病	高	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	29459	species	医学微生物学/CDC/文献
+francisella_tularensis	38	Francisella tularensis	土拉弗朗西斯菌				病原菌	土拉菌病	高	阴性	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Francisellaceae	263	species	医学微生物学/CDC/文献
+legionella_pneumophila	39	Legionella pneumophila	嗜肺军团菌				病原菌	军团菌病(肺炎)	高	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	446	species	医学微生物学/CDC/文献
+campylobacter_jejuni	40	Campylobacter jejuni	空肠弯曲菌				病原菌	弯曲菌肠炎、格林巴利综合征	高	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	197	species	医学微生物学/CDC/文献
+helicobacter_pylori	41	Helicobacter pylori	幽门螺杆菌				病原菌	胃炎、消化性溃疡、胃癌	高	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	210	species	医学微生物学/CDC/文献
+vibrio_cholerae	42	Vibrio cholerae	霍乱弧菌O1/O139	Vibrio cholerae O1/O139			病原菌	霍乱	高	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	666	species	医学微生物学/CDC/文献
+vibrio_vulnificus	43	Vibrio vulnificus	创伤弧菌				病原菌	败血症、坏死性筋膜炎	高	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	672	species	医学微生物学/CDC/文献
+chlamydia_trachomatis	44	Chlamydia trachomatis	沙眼衣原体				病原菌	沙眼、性传播感染、淋巴肉芽肿	高	阴性(专性胞内)	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	813	species	医学微生物学/CDC/文献
+rickettsia_rickettsii	45	Rickettsia rickettsii	立氏立克次体				病原菌	落基山斑点热	高	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	783	species	医学微生物学/CDC/文献
+rickettsia_prowazekii	46	Rickettsia prowazekii	普氏立克次体				病原菌	流行性斑疹伤寒	高	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	782	species	医学微生物学/CDC/文献
+orientia_tsutsugamushi	47	Orientia tsutsugamushi	恙虫病东方体				病原菌	恙虫病	高	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	784	species	医学微生物学/CDC/文献
+mycoplasma_pneumoniae	48	Mycoplasma pneumoniae	肺炎支原体				病原菌	非典型肺炎	高	无壁	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	2093	genus	医学微生物学/CDC/文献
+treponema_pallidum	49	Treponema pallidum	梅毒螺旋体				病原菌	梅毒	高	螺旋体	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	160	species	医学微生物学/CDC/文献
+borrelia_burgdorferi	50	Borrelia burgdorferi	伯氏疏螺旋体				病原菌	莱姆病	高	螺旋体	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	138	genus	医学微生物学/CDC/文献
+leptospira_interrogans	51	Leptospira interrogans	问号钩端螺旋体				病原菌	钩端螺旋体病	高	螺旋体	Spirochaetota	Leptospiria	Leptospirales	Leptospiraceae	173	species	医学微生物学/CDC/文献
+fusobacterium_nucleatum	52	Fusobacterium nucleatum	具核梭杆菌				机会致病菌	牙周病、结直肠癌相关、Lemierre综合征	高	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	851	species	医学微生物学/CDC/文献
+fusobacterium_nucleatum_2	53	Fusobacterium nucleatum	具核梭杆菌(肠道)				肠道有害菌	结直肠癌发生/进展	高	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	851	species	医学微生物学/CDC/文献
+bacteroides_fragilis_etbf	54	Bacteroides fragilis (ETBF)	产肠毒素脆弱拟杆菌				肠道有害菌	结直肠癌、炎症性肠病	高	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	817	species	医学微生物学/CDC/文献
+clostridioides_difficile_2	55	Clostridioides difficile	艰难梭菌(肠道)				肠道有害菌	抗生素相关腹泻、伪膜性肠炎	高	阴性	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	1496	species	医学微生物学/CDC/文献
+adherent_invasive_e_coli_aiec	56	Adherent-invasive E. coli (AIEC)	黏附侵袭性大肠埃希菌				肠道有害菌	克罗恩病相关	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+enterotoxigenic_b_fragilis_etbf	57	Enterotoxigenic B. fragilis (ETBF)	产肠毒素脆弱拟杆菌(ETBF株)				肠道有害菌	结直肠癌、腹泻	高	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	817	species	医学微生物学/CDC/文献
+salmonella_spp	58	Salmonella spp.	沙门菌属(食源)				病原菌	食源性胃肠炎	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	590	species	医学微生物学/CDC/文献
+campylobacter_jejuni_2	59	Campylobacter jejuni	空肠弯曲菌(食源)				病原菌	食源性肠炎	高	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	197	species	医学微生物学/CDC/文献
+shiga_toxin_producing_e_coli	60	Shiga toxin-producing E. coli	产志贺毒素大肠埃希菌(STEC)				病原菌	食源性HUS	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+leptospira_interrogans_2	61	Leptospira interrogans	问号钩端螺旋体(水源)				病原菌	钩端螺旋体病	高	阴性	Spirochaetota	Leptospiria	Leptospirales	Leptospiraceae	173	species	医学微生物学/CDC/文献
+klebsiella_michiganensis	62	Klebsiella michiganensis	密歇根克雷伯菌				机会致病菌	血流感染、尿路感染（常被误判为 K. oxytoca）	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	1134687	manual	医学微生物学/CDC/文献
+citrobacter_youngae	63	Citrobacter youngae	杨氏柠檬酸杆菌				机会致病菌	尿路感染、腹腔感染、菌血症（常被误判为 C. freundii）	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	67826	manual	医学微生物学/CDC/文献
+enterobacter_asburiae	64	Enterobacter asburiae	阿斯布肠杆菌				机会致病菌	院内感染、血流感染	高	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	61645	manual	医学微生物学/CDC/文献
+vibrio_metschnikovii	65	Vibrio metschnikovii	梅氏弧菌				机会致病菌	伤口感染、菌血症（罕见的非霍乱弧菌）	低	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	29495	manual	医学微生物学/CDC/文献
+staphylococcus_epidermidis	66	Staphylococcus epidermidis	表皮葡萄球菌				机会致病菌	导管/植入物相关感染、心内膜炎	中	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1282	species	医学微生物学/CDC/文献
+staphylococcus_haemolyticus	67	Staphylococcus haemolyticus	溶血葡萄球菌				机会致病菌	医院感染、菌血症、耐药	中	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1283	species	医学微生物学/CDC/文献
+staphylococcus_lugdunensis	68	Staphylococcus lugdunensis	路邓葡萄球菌				机会致病菌	侵袭性心内膜炎、皮肤感染(毒力较强)	中	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	28035	species	医学微生物学/CDC/文献
+streptococcus_dysgalactiae	69	Streptococcus dysgalactiae	停乳链球菌				机会致病菌	蜂窝织炎、菌血症、人兽共患	中	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1334	species	医学微生物学/CDC/文献
+streptococcus_anginosus_group	70	Streptococcus anginosus group	咽峡炎链球菌群				机会致病菌	脓肿形成、深部感染	中	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1328	species	医学微生物学/CDC/文献
+streptococcus_intermedius	71	Streptococcus intermedius	中间链球菌				机会致病菌	肝/脑脓肿	中	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1338	species	医学微生物学/CDC/文献
+streptococcus_equinus	72	Streptococcus equinus	马肠链球菌	Streptococcus bovis group			机会致病菌	菌血症、与结直肠癌相关	中	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1335	species	医学微生物学/CDC/文献
+streptococcus_gallolyticus	73	Streptococcus gallolyticus	解没食子酸链球菌				机会致病菌	菌血症、结肠癌相关、心内膜炎	中	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	315405	species	医学微生物学/CDC/文献
+bacillus_cereus	74	Bacillus cereus	蜡样芽孢杆菌				机会致病菌	食物中毒、机会性感染(呕吐型/腹泻型)	中	阳性	Bacillota	Bacilli	Caryophanales	Bacillaceae	1396	species	医学微生物学/CDC/文献
+clostridium_septicum	75	Clostridium septicum	败毒梭菌				机会致病菌	气性坏疽、与结肠癌相关	中	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1504	species	医学微生物学/CDC/文献
+paraclostridium_sordellii	76	Paraclostridium sordellii	索氏梭菌	Clostridium sordellii			机会致病菌	中毒性休克、产后/流产后感染	中	阳性	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	1505	species	医学微生物学/CDC/文献
+corynebacterium_jeikeium	77	Corynebacterium jeikeium	杰氏棒杆菌				机会致病菌	医院感染、菌血症(免疫低下)	中	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	38289	species	医学微生物学/CDC/文献
+corynebacterium_striatum	78	Corynebacterium striatum	纹带棒杆菌				机会致病菌	医院感染、肺炎、菌血症	中	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	43770	species	医学微生物学/CDC/文献
+klebsiella_variicola	79	Klebsiella variicola	变栖克雷伯菌				机会致病菌	肺炎、血流感染、尿路感染（常被误判为 K. pneumoniae）	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	244366	manual	医学微生物学/CDC/文献
+prescottella_equi	80	Prescottella equi	马红球菌	Rhodococcus equi			机会致病菌	肺炎(免疫低下/HIV)	中	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	43767	species	医学微生物学/CDC/文献
+gardnerella_vaginalis	81	Gardnerella vaginalis	阴道加德纳菌				机会致病菌	细菌性阴道病	中	阳性	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	2702	species	医学微生物学/CDC/文献
+mycobacterium_bovis	82	Mycobacterium bovis	牛分枝杆菌				病原菌	人兽共患结核	中	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1765	species	医学微生物学/CDC/文献
+mycobacterium_ulcerans	83	Mycobacterium ulcerans	溃疡分枝杆菌				病原菌	布鲁里溃疡	中	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1809	species	医学微生物学/CDC/文献
+mycobacterium_kansasii	84	Mycobacterium kansasii	堪萨斯分枝杆菌				机会致病菌	类结核肺病	中	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1768	species	医学微生物学/CDC/文献
+mycobacterium_avium_complex	85	Mycobacterium avium complex	鸟分枝杆菌复合群				机会致病菌	HIV/AIDS播散性感染	中	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1764	species	医学微生物学/CDC/文献
+mycobacterium_intracellulare	86	Mycobacterium intracellulare	胞内分枝杆菌				机会致病菌	肺病(免疫低下)	中	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1767	species	医学微生物学/CDC/文献
+mycobacterium_abscessus	87	Mycobacterium abscessus	脓肿分枝杆菌				机会致病菌	肺病、皮肤软组织感染(难治)	中	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	36809	species	医学微生物学/CDC/文献
+nocardia_asteroides	88	Nocardia asteroides	星形诺卡菌				机会致病菌	诺卡菌病(肺/脑)	中	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	1824	species	医学微生物学/CDC/文献
+moraxella_catarrhalis	89	Moraxella catarrhalis	卡他莫拉菌				病原菌	中耳炎、COPD急性加重	中	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	480	species	医学微生物学/CDC/文献
+escherichia_coli_etec	90	Escherichia coli (ETEC)	产肠毒素大肠埃希菌				病原菌	旅行者腹泻	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+escherichia_coli_epec	91	Escherichia coli (EPEC)	肠致病性大肠埃希菌				病原菌	婴幼儿腹泻	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+escherichia_coli_upec	92	Escherichia coli (UPEC)	尿路致病性大肠埃希菌				病原菌	尿路感染、肾盂肾炎、菌血症	中	阴性	Pseudomonadota					manual	医学微生物学/CDC/文献
+escherichia_coli_eaec	93	Escherichia coli (EAEC)	肠聚集性大肠埃希菌				病原菌	持续性腹泻	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+shigella_boydii	94	Shigella boydii	鲍氏志贺菌				病原菌	细菌性痢疾	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	621	species	医学微生物学/CDC/文献
+shigella_sonnei	95	Shigella sonnei	宋内志贺菌				病原菌	细菌性痢疾	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	624	species	医学微生物学/CDC/文献
+klebsiella_oxytoca	96	Klebsiella oxytoca	产酸克雷伯菌				机会致病菌	医院感染、抗生素相关出血性结肠炎	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	571	species	医学微生物学/CDC/文献
+klebsiella_aerogenes	97	Klebsiella aerogenes	产气克雷伯菌				机会致病菌	医院感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	548	species	医学微生物学/CDC/文献
+enterobacter_aerogenes	98	Enterobacter aerogenes	产气肠杆菌				机会致病菌	医院感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	548	species	医学微生物学/CDC/文献
+enterobacter_sakazakii	99	Enterobacter sakazakii	阪崎肠杆菌				病原菌	新生儿脑膜炎(奶粉)	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	28141	species	医学微生物学/CDC/文献
+serratia_marcescens	100	Serratia marcescens	黏质沙雷菌				机会致病菌	医院感染、菌血症、尿路感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	615	species	医学微生物学/CDC/文献
+proteus_mirabilis	101	Proteus mirabilis	奇异变形杆菌				机会致病菌	尿路感染、肾结石(脲酶)	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	584	species	医学微生物学/CDC/文献
+citrobacter_freundii	102	Citrobacter freundii	弗氏枸橼酸杆菌				机会致病菌	医院感染、产AmpC酶	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	546	species	医学微生物学/CDC/文献
+citrobacter_koseri	103	Citrobacter koseri	克氏枸橼酸杆菌				机会致病菌	新生儿脑膜炎	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	545	species	医学微生物学/CDC/文献
+yersinia_enterocolitica	104	Yersinia enterocolitica	小肠结肠炎耶尔森菌				病原菌	小肠结肠炎、肠系膜淋巴结炎	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	630	species	医学微生物学/CDC/文献
+acinetobacter_pittii	105	Acinetobacter pittii	皮特不动杆菌				机会致病菌	医院感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	48296	species	医学微生物学/CDC/文献
+stenotrophomonas_maltophilia	106	Stenotrophomonas maltophilia	嗜麦芽窄食单胞菌				机会致病菌	医院感染、难治性感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Lysobacterales	Lysobacteraceae	40324	species	医学微生物学/CDC/文献
+burkholderia_cepacia_complex	107	Burkholderia cepacia complex	洋葱伯克霍尔德菌复合群				机会致病菌	囊性纤维化、医院感染	中	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	292	species	医学微生物学/CDC/文献
+haemophilus_ducreyi	108	Haemophilus ducreyi	杜克雷嗜血杆菌				病原菌	软下疳	中	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	730	species	医学微生物学/CDC/文献
+bordetella_parapertussis	109	Bordetella parapertussis	副百日咳鲍特菌				病原菌	类百日咳	中	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	519	species	医学微生物学/CDC/文献
+brucella_abortus	110	Brucella abortus	牛种布鲁菌				病原菌	布鲁菌病	中	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	235	species	医学微生物学/CDC/文献
+brucella_suis	111	Brucella suis	猪种布鲁菌				病原菌	布鲁菌病	中	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	29461	species	医学微生物学/CDC/文献
+bartonella_henselae	112	Bartonella henselae	汉赛巴尔通体				病原菌	猫抓病、杆菌性血管瘤	中	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonellaceae	38323	species	医学微生物学/CDC/文献
+capnocytophaga_canimorsus	113	Capnocytophaga canimorsus	犬咬二氧化碳嗜纤维菌				机会致病菌	动物咬伤后败血症	中	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	28188	species	医学微生物学/CDC/文献
+kingella_kingae	114	Kingella kingae	金氏金氏菌				机会致病菌	儿童骨关节感染、心内膜炎	中	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	504	species	医学微生物学/CDC/文献
+campylobacter_coli	115	Campylobacter coli	结肠弯曲菌				病原菌	肠炎	中	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	195	species	医学微生物学/CDC/文献
+campylobacter_fetus	116	Campylobacter fetus	胎儿弯曲菌				病原菌	菌血症(免疫低下/孕妇)	中	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	196	species	医学微生物学/CDC/文献
+vibrio_cholerae_non_o1	117	Vibrio cholerae non-O1	霍乱弧菌非O1				机会致病菌	胃肠炎、伤口感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	666	species	医学微生物学/CDC/文献
+vibrio_parahaemolyticus	118	Vibrio parahaemolyticus	副溶血弧菌				病原菌	急性胃肠炎(海鲜)	中	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	670	species	医学微生物学/CDC/文献
+chlamydophila_pneumoniae	119	Chlamydophila pneumoniae	肺炎衣原体				病原菌	非典型肺炎	中	阴性(专性胞内)	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	83558	species	医学微生物学/CDC/文献
+chlamydophila_psittaci	120	Chlamydophila psittaci	鹦鹉热衣原体				病原菌	鹦鹉热	中	阴性(专性胞内)	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	83554	species	医学微生物学/CDC/文献
+rickettsia_typhi	121	Rickettsia typhi	斑疹伤寒立克次体				病原菌	地方性斑疹伤寒	中	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	785	species	医学微生物学/CDC/文献
+rickettsia_conorii	122	Rickettsia conorii	康氏立克次体				病原菌	地中海斑点热	中	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	781	species	医学微生物学/CDC/文献
+staphylococcus_argenteus	123	Staphylococcus argenteus	银白色葡萄球菌				病原菌	皮肤软组织感染、菌血症（常被误判为金黄色葡萄球菌）	中	阳性	Bacillota	Bacilli	Bacillales	Staphylococcaceae	461328	manual	医学微生物学/CDC/文献
+ehrlichia_chaffeensis	124	Ehrlichia chaffeensis	查菲埃立克体				病原菌	人单核细胞埃立克体病	中	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	945	species	医学微生物学/CDC/文献
+anaplasma_phagocytophilum	125	Anaplasma phagocytophilum	嗜吞噬细胞无形体				病原菌	人粒细胞无形体病	中	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	948	species	医学微生物学/CDC/文献
+mycoplasma_genitalium	126	Mycoplasma genitalium	生殖支原体				病原菌	尿道炎、盆腔炎	中	无壁	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	2097	species	医学微生物学/CDC/文献
+borrelia_garinii	127	Borrelia garinii	伽氏疏螺旋体				病原菌	莱姆病(欧洲)	中	螺旋体	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	29519	species	医学微生物学/CDC/文献
+borrelia_afzelii	128	Borrelia afzelii	阿氏疏螺旋体				病原菌	莱姆病(欧洲)	中	螺旋体	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	138	genus	医学微生物学/CDC/文献
+borrelia_recurrentis	129	Borrelia recurrentis	回归热疏螺旋体				病原菌	流行性回归热	中	螺旋体	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	44449	species	医学微生物学/CDC/文献
+bacteroides_fragilis	130	Bacteroides fragilis	脆弱拟杆菌				机会致病菌	腹腔感染、脓肿	中	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	817	species	医学微生物学/CDC/文献
+porphyromonas_gingivalis	131	Porphyromonas gingivalis	牙龈卟啉单胞菌				机会致病菌	牙周病、与阿尔茨海默/心血管相关	中	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	837	species	医学微生物学/CDC/文献
+fusobacterium_necrophorum	132	Fusobacterium necrophorum	坏死梭杆菌				机会致病菌	Lemierre综合征、咽部感染	中	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	859	species	医学微生物学/CDC/文献
+escherichia_coli_o78_h11_strain_h10407_etec	133	Escherichia coli O78:H11 (strain H10407 / ETEC)	产H2S大肠埃希菌	Escherichia coli (产H2S株)			肠道有害菌	IBD、菌群失调	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+bilophila_wadsworthia	134	Bilophila wadsworthia	沃氏嗜胆菌				肠道有害菌	产H2S、炎症性肠病(高脂饮食)	中	阴性	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	35833	species	医学微生物学/CDC/文献
+desulfovibrio_piger	135	Desulfovibrio piger	脱硫弧菌				肠道有害菌	产H2S、溃疡性结肠炎相关	中	阴性	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	901	species	医学微生物学/CDC/文献
+klebsiella_pneumoniae_2	136	Klebsiella pneumoniae (肠道)	肺炎克雷伯菌(肠道过度增殖)				肠道有害菌	菌群失调、抗生素后过度增殖	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	573	species	医学微生物学/CDC/文献
+mediterraneibacter_gnavus	137	Mediterraneibacter gnavus	活泼瘤胃球菌	Ruminococcus gnavus			肠道有害菌	炎症性肠病(克罗恩病)相关	中	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	33038	species	医学微生物学/CDC/文献
+parvimonas_micra	138	Parvimonas micra (肠道)	微小微单胞菌(肠道)				肠道有害菌	结直肠癌相关	中	阴性	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	33033	species	医学微生物学/CDC/文献
+streptococcus_gallolyticus_2	139	Streptococcus gallolyticus (肠道)	解没食子酸链球菌(肠道)				肠道有害菌	结直肠癌相关	中	阴性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	315405	species	医学微生物学/CDC/文献
+escherichia_coli_o6_h1_strain_cft073_atcc_700928_upec	140	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)	产大肠杆菌素大肠埃希菌(pks+)	Pathogenic E. coli (pks+ Colibactin)			肠道有害菌	结直肠癌相关(基因毒性)	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+segatella_copri	141	Segatella copri	粪普雷沃菌(失调型)	Prevotella copri (失调型)			肠道有害菌	类风湿关节炎、菌群失调相关	中	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	165179	species	医学微生物学/CDC/文献
+staphylococcus_aureus_2	142	Staphylococcus aureus (产肠毒素)	金葡菌(产肠毒素株)				病原菌	食物中毒	中	阴性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1280	species	医学微生物学/CDC/文献
+cronobacter_sakazakii	143	Cronobacter sakazakii	阪崎克罗诺杆菌				病原菌	新生儿脑膜炎(奶粉)	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	28141	species	医学微生物学/CDC/文献
+brucella_spp	144	Brucella spp.	布鲁菌属(乳源)				病原菌	布鲁菌病(乳制品)	中	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	234	species	医学微生物学/CDC/文献
+mycobacterium_bovis_2	145	Mycobacterium bovis	牛分枝杆菌(乳源)				病原菌	人兽共患结核	中	阴性	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1765	species	医学微生物学/CDC/文献
+coxiella_burnetii_2	146	Coxiella burnetii	贝氏柯克斯体(乳源)				病原菌	Q热(乳制品)	中	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Coxiellaceae	777	species	医学微生物学/CDC/文献
+pseudomonas_aeruginosa_2	147	Pseudomonas aeruginosa (水源)	铜绿假单胞菌(水源)				机会致病菌	水源性机会感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	287	species	医学微生物学/CDC/文献
+escherichia_coli_2	148	Escherichia coli (黏膜侵袭株)	大肠埃希菌(黏膜侵袭株)				肠道有害菌	IBD、菌群失调	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	562	species	医学微生物学/CDC/文献
+mycobacterium_smegmatis	149	Mycobacterium smegmatis	耻垢分枝杆菌				机会致病菌	非结核分枝杆菌感染、导管相关感染	中	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1772	manual	医学微生物学/CDC/文献
+chlamydophila_psittaci_2	150	Chlamydophila psittaci	鹦鹉热衣原体(禽源)				病原菌	鹦鹉热	中	阴性	Chlamydiota	Chlamydiia	Chlamydiales	Chlamydiaceae	83554	species	医学微生物学/CDC/文献
+corynebacterium_ulcerans_2	151	Corynebacterium ulcerans	溃疡棒杆菌(牛源)				病原菌	白喉样感染	中	阴性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	65058	species	医学微生物学/CDC/文献
+hafnia_paralvei	152	Hafnia paralvei	副蜂房哈夫尼菌				机会致病菌	肠道机会感染	中	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	546367	manual	医学微生物学/CDC/文献
+staphylococcus_saprophyticus	153	Staphylococcus saprophyticus	腐生葡萄球菌				病原菌	年轻女性尿路感染	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	29385	species	医学微生物学/CDC/文献
+staphylococcus_schleiferi	154	Staphylococcus schleiferi	施氏葡萄球菌				机会致病菌	机会性感染、犬咬伤相关	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1295	species	医学微生物学/CDC/文献
+staphylococcus_warneri	155	Staphylococcus warneri	沃氏葡萄球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1292	species	医学微生物学/CDC/文献
+staphylococcus_hominis	156	Staphylococcus hominis	人葡萄球菌				机会致病菌	机会性感染、菌血症	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1290	species	医学微生物学/CDC/文献
+staphylococcus_capitis	157	Staphylococcus capitis	头状葡萄球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	29388	species	医学微生物学/CDC/文献
+staphylococcus_intermedius	158	Staphylococcus intermedius	中间葡萄球菌				机会致病菌	动物咬伤感染	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	1285	species	医学微生物学/CDC/文献
+staphylococcus_pseudintermedius	159	Staphylococcus pseudintermedius	假中间葡萄球菌				机会致病菌	动物咬伤、MRSP	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	283734	species	医学微生物学/CDC/文献
+staphylococcus_pasteuri	160	Staphylococcus pasteuri	巴氏葡萄球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Caryophanales	Staphylococcaceae	45972	species	医学微生物学/CDC/文献
+streptococcus_equi	161	Streptococcus equi	马链球菌				机会致病菌	动物源感染、人感染罕见	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1336	species	医学微生物学/CDC/文献
+streptococcus_constellatus	162	Streptococcus constellatus	星座链球菌				机会致病菌	脓肿、胸腹腔感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	76860	species	医学微生物学/CDC/文献
+streptococcus_mitis	163	Streptococcus mitis	缓症链球菌				机会致病菌	感染性心内膜炎	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	28037	species	医学微生物学/CDC/文献
+streptococcus_oralis	164	Streptococcus oralis	口腔链球菌				机会致病菌	感染性心内膜炎、菌血症	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1303	species	医学微生物学/CDC/文献
+streptococcus_salivarius	165	Streptococcus salivarius	唾液链球菌				机会致病菌	机会性菌血症(罕见)	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1304	species	医学微生物学/CDC/文献
+streptococcus_mutans	166	Streptococcus mutans	变异链球菌				机会致病菌	龋齿、感染性心内膜炎	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1309	species	医学微生物学/CDC/文献
+streptococcus_sanguinis	167	Streptococcus sanguinis	血链球菌				机会致病菌	感染性心内膜炎	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1305	species	医学微生物学/CDC/文献
+streptococcus_gordonii	168	Streptococcus gordonii	戈登链球菌				机会致病菌	感染性心内膜炎	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1302	species	医学微生物学/CDC/文献
+streptococcus_iniae	169	Streptococcus iniae	海豚链球菌				病原菌	蜂窝织炎(鱼类接触)	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1346	species	医学微生物学/CDC/文献
+streptococcus_vestibularis	170	Streptococcus vestibularis	前庭链球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1343	species	医学微生物学/CDC/文献
+streptococcus_canis	171	Streptococcus canis	犬链球菌				机会致病菌	动物咬伤感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1329	species	医学微生物学/CDC/文献
+enterococcus_avium	172	Enterococcus avium	鸟肠球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	33945	species	医学微生物学/CDC/文献
+enterococcus_casseliflavus	173	Enterococcus casseliflavus	铅黄肠球菌				机会致病菌	机会性感染、天然万古霉素低耐药	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	37734	species	医学微生物学/CDC/文献
+enterococcus_gallinarum	174	Enterococcus gallinarum	鹑鸡肠球菌				机会致病菌	机会性感染、天然万古霉素耐药	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	1353	species	医学微生物学/CDC/文献
+enterococcus_durans	175	Enterococcus durans	耐久肠球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	53345	species	医学微生物学/CDC/文献
+enterococcus_raffinosus	176	Enterococcus raffinosus	棉子糖肠球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	71452	species	医学微生物学/CDC/文献
+enterococcus_hirae	177	Enterococcus hirae	海氏肠球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	1354	species	医学微生物学/CDC/文献
+bacillus_thuringiensis	178	Bacillus thuringiensis	苏云金芽孢杆菌				机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Caryophanales	Bacillaceae	1428	species	医学微生物学/CDC/文献
+bacillus_subtilis	179	Bacillus subtilis	枯草芽孢杆菌				机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Caryophanales	Bacillaceae	1423	species	医学微生物学/CDC/文献
+bacillus_licheniformis	180	Bacillus licheniformis	地衣芽孢杆菌				机会致病菌	食物中毒、机会性感染	低	阳性	Bacillota	Bacilli	Caryophanales	Bacillaceae	1402	species	医学微生物学/CDC/文献
+bacillus_pumilus	181	Bacillus pumilus	短小芽孢杆菌				机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Caryophanales	Bacillaceae	1408	species	医学微生物学/CDC/文献
+paenibacillus_spp	182	Paenibacillus spp.	类芽孢杆菌属				机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Caryophanales	Paenibacillaceae	44249	species	医学微生物学/CDC/文献
+clostridium_novyi	183	Clostridium novyi	诺维梭菌				机会致病菌	气性坏疽	低	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1542	species	医学微生物学/CDC/文献
+clostridium_histolyticum	184	Clostridium histolyticum	溶组织梭菌				机会致病菌	气性坏疽	低	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1498	species	医学微生物学/CDC/文献
+clostridium_sporogenes	185	Clostridium sporogenes	产孢梭菌				机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1509	species	医学微生物学/CDC/文献
+clostridium_tertium	186	Clostridium tertium	第三梭菌				机会致病菌	菌血症、气性坏疽	低	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1559	species	医学微生物学/CDC/文献
+clostridium_butyricum	187	Clostridium butyricum	丁酸梭菌				机会致病菌	婴儿肉毒中毒相关、机会性感染	低	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1492	species	医学微生物学/CDC/文献
+clostridium_ramosum	188	Clostridium ramosum	多枝梭菌				机会致病菌	菌血症、机会性感染	低	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1485	genus	医学微生物学/CDC/文献
+clostridium_innocuum	189	Clostridium innocuum	无害梭菌				机会致病菌	菌血症、机会性感染	低	阳性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1522	species	医学微生物学/CDC/文献
+corynebacterium_urealyticum	190	Corynebacterium urealyticum	解脲棒杆菌				机会致病菌	尿路感染、结石(脲酶)	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	43771	species	医学微生物学/CDC/文献
+corynebacterium_pseudotuberculosis	191	Corynebacterium pseudotuberculosis	假结核棒杆菌				机会致病菌	人兽共患淋巴结炎	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	1719	species	医学微生物学/CDC/文献
+corynebacterium_amycolatum	192	Corynebacterium amycolatum	无枝菌酸棒杆菌				机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	43765	species	医学微生物学/CDC/文献
+corynebacterium_minutissimum	193	Corynebacterium minutissimum	微小棒杆菌				机会致病菌	红癣	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	38301	species	医学微生物学/CDC/文献
+corynebacterium_kroppenstedtii	194	Corynebacterium kroppenstedtii	克氏棒杆菌				机会致病菌	肉芽肿性乳腺炎	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	161879	species	医学微生物学/CDC/文献
+arcanobacterium_haemolyticum	195	Arcanobacterium haemolyticum	溶血隐秘杆菌				病原菌	咽炎、皮疹	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	28264	species	医学微生物学/CDC/文献
+trueperella_pyogenes	196	Trueperella pyogenes	化脓隐秘杆菌				机会致病菌	动物源化脓感染	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1661	species	医学微生物学/CDC/文献
+listeria_innocua	197	Listeria innocua	无害李斯特菌				机会致病菌	通常非致病，免疫低下者机会感染	低	阳性	Bacillota	Bacilli	Caryophanales	Listeriaceae	1642	manual	医学微生物学/CDC/文献
+erysipelothrix_rhusiopathiae	198	Erysipelothrix rhusiopathiae	猪红斑丹毒丝菌				病原菌	类丹毒(渔民/屠夫)	低	阳性	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	1648	species	医学微生物学/CDC/文献
+rhodococcus_hoagii	199	Rhodococcus hoagii	霍氏红球菌				机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	43767	species	医学微生物学/CDC/文献
+lactobacillus	200	Lactobacillus (致病株)	乳杆菌(致病株)				机会致病菌	心内膜炎、菌血症(罕见)	低	阳性	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	1578	species	医学微生物学/CDC/文献
+cutibacterium_acnes	201	Cutibacterium acnes	痤疮丙酸杆菌				机会致病菌	痤疮、植入物感染、心内膜炎	低	阳性	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	1747	species	医学微生物学/CDC/文献
+cutibacterium_avidum	202	Cutibacterium avidum	贪婪丙酸杆菌				机会致病菌	机会性感染、肩部假体感染	低	阳性	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	33010	species	医学微生物学/CDC/文献
+eggerthella_lenta	203	Eggerthella lenta	迟缓埃格特菌				机会致病菌	菌血症、机会性感染	低	阳性	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	84112	species	医学微生物学/CDC/文献
+mycobacterium_marinum	204	Mycobacterium marinum	海分枝杆菌				病原菌	游泳池肉芽肿	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1781	species	医学微生物学/CDC/文献
+mycobacterium_chelonae	205	Mycobacterium chelonae	龟分枝杆菌				机会致病菌	皮肤软组织感染、医源性感染	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1763	genus	医学微生物学/CDC/文献
+mycobacterium_fortuitum	206	Mycobacterium fortuitum	偶发分枝杆菌				机会致病菌	皮肤软组织感染	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1766	species	医学微生物学/CDC/文献
+mycobacterium_xenopi	207	Mycobacterium xenopi	蟾蜍分枝杆菌				机会致病菌	肺病	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1789	species	医学微生物学/CDC/文献
+mycobacterium_gordonae	208	Mycobacterium gordonae	戈登分枝杆菌				机会致病菌	机会性感染(罕见)	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1778	species	医学微生物学/CDC/文献
+mycobacterium_szulgai	209	Mycobacterium szulgai	苏加分枝杆菌				机会致病菌	肺病(罕见)	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1787	species	医学微生物学/CDC/文献
+mycobacterium_malmoense	210	Mycobacterium malmoense	玛尔摩分枝杆菌				机会致病菌	肺病(北欧)	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1780	species	医学微生物学/CDC/文献
+mycobacterium_simiae	211	Mycobacterium simiae	猿分枝杆菌				机会致病菌	机会性感染	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1784	species	医学微生物学/CDC/文献
+mycobacterium_haemophilum	212	Mycobacterium haemophilum	嗜血分枝杆菌				机会致病菌	皮肤感染(免疫低下)	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	29311	species	医学微生物学/CDC/文献
+mycobacterium_scrofulaceum	213	Mycobacterium scrofulaceum	瘰疬分枝杆菌				机会致病菌	颈淋巴结炎	低	阳性(抗酸)	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1783	species	医学微生物学/CDC/文献
+nocardia_brasiliensis	214	Nocardia brasiliensis	巴西诺卡菌				机会致病菌	皮肤诺卡菌病、足菌肿	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	37326	species	医学微生物学/CDC/文献
+nocardia_farcinica	215	Nocardia farcinica	鼻疽诺卡菌				机会致病菌	播散性诺卡菌病	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	37329	species	医学微生物学/CDC/文献
+nocardia_nova	216	Nocardia nova	新诺卡菌				机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	37330	species	医学微生物学/CDC/文献
+nocardia_otitidiscaviarum	217	Nocardia otitidiscaviarum	豚鼠耳炎诺卡菌				机会致病菌	皮肤/皮下感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	1823	species	医学微生物学/CDC/文献
+actinomyces_israelii	218	Actinomyces israelii	衣氏放线菌				机会致病菌	放线菌病(颈面部)	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1659	species	医学微生物学/CDC/文献
+actinomyces_naeslundii	219	Actinomyces naeslundii	内氏放线菌				机会致病菌	放线菌病	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1655	species	医学微生物学/CDC/文献
+schaalia_odontolytica	220	Schaalia odontolytica	溶齿放线菌	Actinomyces odontolyticus			机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1660	species	医学微生物学/CDC/文献
+schaalia_meyeri	221	Schaalia meyeri	迈氏放线菌	Actinomyces meyeri			机会致病菌	放线菌病(罕见)	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1654	genus	医学微生物学/CDC/文献
+tropheryma_whipplei	222	Tropheryma whipplei	惠普尔养障体				病原菌	惠普尔病	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Tropherymataceae	2039	species	医学微生物学/CDC/文献
+neisseria_lactamica	223	Neisseria lactamica	乳糖奈瑟菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	486	species	医学微生物学/CDC/文献
+neisseria_cinerea	224	Neisseria cinerea	灰色奈瑟菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	483	species	医学微生物学/CDC/文献
+moraxella_lacunata	225	Moraxella lacunata	腔隙莫拉菌				机会致病菌	结膜炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	477	species	医学微生物学/CDC/文献
+moraxella_nonliquefaciens	226	Moraxella nonliquefaciens	不液化莫拉菌				机会致病菌	呼吸道机会感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	478	species	医学微生物学/CDC/文献
+moraxella_osloensis	227	Moraxella osloensis	奥斯陆莫拉菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	34062	species	医学微生物学/CDC/文献
+klebsiella_ozaenae	228	Klebsiella ozaenae	臭鼻克雷伯菌				机会致病菌	臭鼻症、呼吸道感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	570	genus	医学微生物学/CDC/文献
+klebsiella_rhinoscleromatis	229	Klebsiella rhinoscleromatis	鼻硬结克雷伯菌				机会致病菌	鼻硬结病	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	39831	species	医学微生物学/CDC/文献
+klebsiella_granulomatis	230	Klebsiella granulomatis	肉芽肿克雷伯菌				病原菌	腹股沟肉芽肿	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	39824	species	医学微生物学/CDC/文献
+enterobacter_hormaechei	231	Enterobacter hormaechei	霍氏肠杆菌				机会致病菌	医院感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	158836	species	医学微生物学/CDC/文献
+serratia_liquefaciens	232	Serratia liquefaciens	液化沙雷菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	614	species	医学微生物学/CDC/文献
+proteus_vulgaris	233	Proteus vulgaris	普通变形杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	585	species	医学微生物学/CDC/文献
+proteus_penneri	234	Proteus penneri	彭氏变形杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	102862	species	医学微生物学/CDC/文献
+morganella_morganii	235	Morganella morganii	摩氏摩根菌				机会致病菌	医院感染、尿路感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	582	species	医学微生物学/CDC/文献
+providencia_stuartii	236	Providencia stuartii	斯氏普罗威登斯菌				机会致病菌	医院感染、尿路感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	588	species	医学微生物学/CDC/文献
+providencia_rettgeri	237	Providencia rettgeri	雷氏普罗威登斯菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	587	species	医学微生物学/CDC/文献
+providencia_alcalifaciens	238	Providencia alcalifaciens	产碱普罗威登斯菌				机会致病菌	旅行者腹泻、机会感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	126385	species	医学微生物学/CDC/文献
+citrobacter_braakii	239	Citrobacter braakii	布氏枸橼酸杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	57706	species	医学微生物学/CDC/文献
+citrobacter_amalonaticus	240	Citrobacter amalonaticus	无丙二酸枸橼酸杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	35703	species	医学微生物学/CDC/文献
+hafnia_alvei	241	Hafnia alvei	蜂房哈夫尼菌				机会致病菌	机会性感染、胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	569	species	医学微生物学/CDC/文献
+edwardsiella_tarda	242	Edwardsiella tarda	迟钝爱德华菌				机会致病菌	胃肠炎、伤口感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	636	species	医学微生物学/CDC/文献
+yersinia_pseudotuberculosis	243	Yersinia pseudotuberculosis	假结核耶尔森菌				病原菌	肠系膜淋巴结炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	633	species	医学微生物学/CDC/文献
+pantoea_agglomerans	244	Pantoea agglomerans	成团泛菌				机会致病菌	机会性感染、伤口感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	549	species	医学微生物学/CDC/文献
+plesiomonas_shigelloides	245	Plesiomonas shigelloides	类志贺邻单胞菌				病原菌	胃肠炎(水产)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	703	species	医学微生物学/CDC/文献
+cedecea_davisae	246	Cedecea davisae	戴维斯西地西菌	Cedecea spp.			机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	158484	species	医学微生物学/CDC/文献
+kluyvera_ascorbata	247	Kluyvera ascorbata	抗坏血酸克吕沃菌	Kluyvera spp.			机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	51288	species	医学微生物学/CDC/文献
+leclercia_adecarboxylata	248	Leclercia adecarboxylata	非脱羧勒克菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	83655	species	医学微生物学/CDC/文献
+rahnella_aquatilis	249	Rahnella aquatilis	水生拉恩菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	34038	species	医学微生物学/CDC/文献
+raoultella_planticola	250	Raoultella planticola	植生拉乌尔菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	575	species	医学微生物学/CDC/文献
+raoultella_ornithinolytica	251	Raoultella ornithinolytica	解鸟氨酸拉乌尔菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	54291	species	医学微生物学/CDC/文献
+pseudomonas_fluorescens	252	Pseudomonas fluorescens	荧光假单胞菌				机会致病菌	机会性感染、血制品污染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	294	species	医学微生物学/CDC/文献
+pseudomonas_putida	253	Pseudomonas putida	恶臭假单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	303	species	医学微生物学/CDC/文献
+pseudomonas_stutzeri	254	Pseudomonas stutzeri	施氏假单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	286	genus	医学微生物学/CDC/文献
+pseudomonas_oryzihabitans	255	Pseudomonas oryzihabitans	栖稻假单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	47885	species	医学微生物学/CDC/文献
+pseudomonas_luteola	256	Pseudomonas luteola	浅黄假单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	47886	species	医学微生物学/CDC/文献
+acinetobacter_nosocomialis	257	Acinetobacter nosocomialis	医院不动杆菌				机会致病菌	医院感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	106654	species	医学微生物学/CDC/文献
+acinetobacter_lwoffii	258	Acinetobacter lwoffii	洛菲不动杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	28090	species	医学微生物学/CDC/文献
+acinetobacter_junii	259	Acinetobacter junii	琼氏不动杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	40215	species	医学微生物学/CDC/文献
+acinetobacter_haemolyticus	260	Acinetobacter haemolyticus	溶血不动杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	29430	species	医学微生物学/CDC/文献
+burkholderia_gladioli	261	Burkholderia gladioli	唐菖蒲伯克霍尔德菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	28095	species	医学微生物学/CDC/文献
+achromobacter_xylosoxidans	262	Achromobacter xylosoxidans	木糖氧化无色杆菌				机会致病菌	囊性纤维化、机会感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	85698	species	医学微生物学/CDC/文献
+achromobacter_denitrificans	263	Achromobacter denitrificans	反硝化无色杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	32002	species	医学微生物学/CDC/文献
+alcaligenes_faecalis	264	Alcaligenes faecalis	粪产碱杆菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	511	species	医学微生物学/CDC/文献
+elizabethkingia_meningoseptica	265	Elizabethkingia meningoseptica	脑膜败血伊丽莎白菌				机会致病菌	新生儿脑膜炎、菌血症	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	238	species	医学微生物学/CDC/文献
+elizabethkingia_anophelis	266	Elizabethkingia anophelis	按蚊伊丽莎白菌				机会致病菌	医院感染、菌血症	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	1117645	species	医学微生物学/CDC/文献
+chryseobacterium_indologenes	267	Chryseobacterium indologenes	产吲哚金黄杆菌				机会致病菌	医院感染、难治	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	253	species	医学微生物学/CDC/文献
+chryseobacterium_gleum	268	Chryseobacterium gleum	黏金黄杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	250	species	医学微生物学/CDC/文献
+sphingomonas_paucimobilis	269	Sphingomonas paucimobilis	少动鞘氨醇单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	13689	species	医学微生物学/CDC/文献
+delftia_acidovorans	270	Delftia acidovorans	食酸代尔夫特菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	80866	species	医学微生物学/CDC/文献
+comamonas_testosteroni	271	Comamonas testosteroni	睾丸酮丛毛单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Comamonadaceae	285	species	医学微生物学/CDC/文献
+ralstonia_pickettii	272	Ralstonia pickettii	皮氏罗尔斯顿菌				机会致病菌	机会性感染、药液污染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	329	species	医学微生物学/CDC/文献
+brevundimonas_diminuta	273	Brevundimonas diminuta	缺陷短波单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	293	species	医学微生物学/CDC/文献
+roseomonas_mucosa	274	Roseomonas mucosa	黏膜玫瑰单胞菌	Roseomonas spp.			机会致病菌	机会性感染(导管相关)	低	阴性	Pseudomonadota	Alphaproteobacteria	Acetobacterales	Roseomonadaceae	125216	species	医学微生物学/CDC/文献
+methylobacterium_nonmethylotrophicum	275	Methylobacterium nonmethylotrophicum	非甲基营养甲基杆菌	Methylobacterium spp.			机会致病菌	机会性感染(导管相关)	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Methylobacteriaceae	407	species	医学微生物学/CDC/文献
+haemophilus_parainfluenzae	276	Haemophilus parainfluenzae	副流感嗜血杆菌				机会致病菌	心内膜炎、机会感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	729	species	医学微生物学/CDC/文献
+haemophilus_aphrophilus	277	Haemophilus aphrophilus	嗜沫嗜血杆菌				机会致病菌	心内膜炎、脑脓肿	低	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	732	species	医学微生物学/CDC/文献
+aggregatibacter_actinomycetemcomitans	278	Aggregatibacter actinomycetemcomitans	伴放线聚集杆菌				机会致病菌	牙周炎、心内膜炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	714	species	医学微生物学/CDC/文献
+aggregatibacter_aphrophilus	279	Aggregatibacter aphrophilus	嗜沫聚集杆菌				机会致病菌	心内膜炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	732	species	医学微生物学/CDC/文献
+bordetella_bronchiseptica	280	Bordetella bronchiseptica	支气管败血鲍特菌				机会致病菌	动物源呼吸道感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	518	species	医学微生物学/CDC/文献
+bordetella_holmesii	281	Bordetella holmesii	霍氏鲍特菌				机会致病菌	菌血症、呼吸道感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	35814	species	医学微生物学/CDC/文献
+brucella_canis	282	Brucella canis	犬种布鲁菌				病原菌	布鲁菌病	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	36855	species	医学微生物学/CDC/文献
+legionella_micdadei	283	Legionella micdadei	麦氏军团菌				机会致病菌	肺炎(免疫低下)	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	451	species	医学微生物学/CDC/文献
+legionella_longbeachae	284	Legionella longbeachae	长滩军团菌				病原菌	军团菌病	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	450	species	医学微生物学/CDC/文献
+bartonella_quintana	285	Bartonella quintana	五日热巴尔通体				病原菌	战壕热、心内膜炎	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonellaceae	803	species	医学微生物学/CDC/文献
+bartonella_bacilliformis	286	Bartonella bacilliformis	杆菌状巴尔通体				病原菌	奥罗亚热、秘鲁疣	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Bartonellaceae	774	species	医学微生物学/CDC/文献
+pasteurella_multocida	287	Pasteurella multocida	多杀巴斯德菌				机会致病菌	动物咬伤感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	747	species	医学微生物学/CDC/文献
+pasteurella_canis	288	Pasteurella canis	犬巴斯德菌				机会致病菌	动物咬伤感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	753	species	医学微生物学/CDC/文献
+pasteurella_dagmatis	289	Pasteurella dagmatis	达氏巴斯德菌				机会致病菌	动物咬伤感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	754	species	医学微生物学/CDC/文献
+capnocytophaga_ochracea	290	Capnocytophaga ochracea	赭色二氧化碳嗜纤维菌				机会致病菌	牙周感染、免疫低下菌血症	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	1018	species	医学微生物学/CDC/文献
+capnocytophaga_gingivalis	291	Capnocytophaga gingivalis	牙龈二氧化碳嗜纤维菌				机会致病菌	牙周感染	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	1017	species	医学微生物学/CDC/文献
+eikenella_corrodens	292	Eikenella corrodens	啮蚀艾肯菌				机会致病菌	咬伤感染、心内膜炎	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	539	species	医学微生物学/CDC/文献
+cardiobacterium_hominis	293	Cardiobacterium hominis	人心杆菌				机会致病菌	心内膜炎(HACEK)	低	阴性	Pseudomonadota	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	2718	species	医学微生物学/CDC/文献
+streptobacillus_moniliformis	294	Streptobacillus moniliformis	念珠状链杆菌				病原菌	鼠咬热、哈佛希尔热	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	34105	species	医学微生物学/CDC/文献
+spirillum_minus	295	Spirillum minus	小螺菌				病原菌	鼠咬热	低	阴性	Pseudomonadota	Betaproteobacteria	Nitrosomonadales	Spirillaceae	967	genus	医学微生物学/CDC/文献
+chromobacterium_violaceum	296	Chromobacterium violaceum	紫色色杆菌				机会致病菌	皮肤/播散性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Chromobacteriaceae	536	species	医学微生物学/CDC/文献
+dysgonomonas_spp	297	Dysgonomonas spp.	难养杆菌属				机会致病菌	机会性感染(免疫低下)	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Dysgonomonadaceae	156973	species	医学微生物学/CDC/文献
+suttonella_indologenes	298	Suttonella indologenes	产吲哚萨顿菌				机会致病菌	心内膜炎(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	13276	species	医学微生物学/CDC/文献
+campylobacter_upsaliensis	299	Campylobacter upsaliensis	乌普萨拉弯曲菌				病原菌	肠炎	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	28080	species	医学微生物学/CDC/文献
+campylobacter_lari	300	Campylobacter lari	海鸟弯曲菌				病原菌	肠炎	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	201	species	医学微生物学/CDC/文献
+helicobacter_cinaedi	301	Helicobacter cinaedi	同性恋螺杆菌				机会致病菌	菌血症、蜂窝织炎(免疫低下)	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	213	species	医学微生物学/CDC/文献
+helicobacter_heilmannii	302	Helicobacter heilmannii	海尔曼螺杆菌				病原菌	胃炎(动物源)	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	35817	species	医学微生物学/CDC/文献
+arcobacter_butzleri	303	Arcobacter butzleri	布氏弓形菌				病原菌	胃肠炎	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Arcobacteraceae	28197	species	医学微生物学/CDC/文献
+vibrio_alginolyticus	304	Vibrio alginolyticus	溶藻弧菌				机会致病菌	伤口感染、耳炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	663	species	医学微生物学/CDC/文献
+vibrio_fluvialis	305	Vibrio fluvialis	河弧菌				病原菌	胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	676	species	医学微生物学/CDC/文献
+vibrio_mimicus	306	Vibrio mimicus	拟态弧菌				病原菌	胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	674	species	医学微生物学/CDC/文献
+grimontia_hollisae	307	Grimontia hollisae	霍利斯弧菌	Vibrio hollisae			病原菌	胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	673	species	医学微生物学/CDC/文献
+vibrio_damsela	308	Vibrio damsela	美人鱼弧菌				机会致病菌	伤口感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	662	genus	医学微生物学/CDC/文献
+aeromonas_hydrophila	309	Aeromonas hydrophila	嗜水气单胞菌				机会致病菌	伤口感染、胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	644	species	医学微生物学/CDC/文献
+aeromonas_caviae	310	Aeromonas caviae	豚鼠气单胞菌				机会致病菌	胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	648	species	医学微生物学/CDC/文献
+aeromonas_veronii	311	Aeromonas veronii	维罗纳气单胞菌				机会致病菌	胃肠炎、伤口感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	654	species	医学微生物学/CDC/文献
+aeromonas_sobria	312	Aeromonas sobria	温和气单胞菌				机会致病菌	胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	646	species	医学微生物学/CDC/文献
+photobacterium_damselae	313	Photobacterium damselae	美人鱼发光杆菌				机会致病菌	伤口感染(海产)	低	阴性	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	38293	species	医学微生物学/CDC/文献
+rickettsia_akari	314	Rickettsia akari	螨立克次体				病原菌	立克次体痘	低	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	786	species	医学微生物学/CDC/文献
+rickettsia_africae	315	Rickettsia africae	非洲立克次体				病原菌	非洲蜱咬热	低	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	35788	species	医学微生物学/CDC/文献
+rickettsia_sibirica	316	Rickettsia sibirica	西伯利亚立克次体				病原菌	北亚蜱传斑疹伤寒	低	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	35793	species	医学微生物学/CDC/文献
+ehrlichia_ewingii	317	Ehrlichia ewingii	尤因埃立克体				病原菌	人埃立克体病	低	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	947	species	医学微生物学/CDC/文献
+neorickettsia_sennetsu	318	Neorickettsia sennetsu	腺热新立克次体				病原菌	腺热	低	阴性(专性胞内)	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	33993	genus	医学微生物学/CDC/文献
+mycoplasma_hominis	319	Mycoplasma hominis	人型支原体				机会致病菌	盆腔炎、产后发热	低	无壁	Mycoplasmatota	Mollicutes	Mycoplasmatales	Mycoplasmataceae	2093	genus	医学微生物学/CDC/文献
+mycoplasma_fermentans	320	Mycoplasma fermentans	发酵支原体				机会致病菌	机会性感染	低	无壁	Mycoplasmatota		Mycoplasmoidales	Metamycoplasmataceae	2115	species	医学微生物学/CDC/文献
+ureaplasma_urealyticum	321	Ureaplasma urealyticum	解脲脲原体				机会致病菌	尿道炎、生殖道感染	低	无壁	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	2130	species	医学微生物学/CDC/文献
+ureaplasma_parvum	322	Ureaplasma parvum	微小脲原体				机会致病菌	生殖道感染	低	无壁	Mycoplasmatota		Mycoplasmoidales	Mycoplasmoidaceae	134821	species	医学微生物学/CDC/文献
+treponema_pallidum_endemicum	323	Treponema pallidum endemicum	地方性梅毒螺旋体				病原菌	地方性梅毒(雅司)	低	螺旋体	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	160	species	医学微生物学/CDC/文献
+treponema_pertenue	324	Treponema pertenue	雅司螺旋体				病原菌	雅司	低	螺旋体	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	168	species	医学微生物学/CDC/文献
+treponema_carateum	325	Treponema carateum	品他病螺旋体				病原菌	品他病	低	螺旋体	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	3712027	species	医学微生物学/CDC/文献
+borrelia_hermsii	326	Borrelia hermsii	赫氏疏螺旋体				病原菌	蜱传回归热	低	螺旋体	Spirochaetota	Spirochaetia	Spirochaetales	Borreliaceae	140	species	医学微生物学/CDC/文献
+leptospira_biflexa	327	Leptospira biflexa	双曲钩端螺旋体				机会致病菌	机会性感染(罕见)	低	螺旋体	Spirochaetota	Leptospiria	Leptospirales	Leptospiraceae	172	species	医学微生物学/CDC/文献
+bacteroides_thetaiotaomicron	328	Bacteroides thetaiotaomicron	多形拟杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	818	species	医学微生物学/CDC/文献
+bacteroides_vulgatus	329	Bacteroides vulgatus	普通拟杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	816	genus	医学微生物学/CDC/文献
+bacteroides_distasonis	330	Bacteroides distasonis	吉氏拟杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	823	species	医学微生物学/CDC/文献
+bacteroides_ovatus	331	Bacteroides ovatus	卵形拟杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	28116	species	医学微生物学/CDC/文献
+bacteroides_uniformis	332	Bacteroides uniformis	单形拟杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	820	species	医学微生物学/CDC/文献
+prevotella_melaninogenica	333	Prevotella melaninogenica	产黑普雷沃菌				机会致病菌	口腔/呼吸道厌氧感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	28132	species	医学微生物学/CDC/文献
+prevotella_intermedia	334	Prevotella intermedia	中间普雷沃菌				机会致病菌	牙周病、厌氧感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	838	genus	医学微生物学/CDC/文献
+prevotella_bivia	335	Prevotella bivia	二路普雷沃菌				机会致病菌	女性盆腔感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	28125	species	医学微生物学/CDC/文献
+prevotella_disiens	336	Prevotella disiens	解糖普雷沃菌				机会致病菌	盆腔感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	28130	species	医学微生物学/CDC/文献
+prevotella_denticola	337	Prevotella denticola	栖牙普雷沃菌				机会致病菌	牙周感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	28129	species	医学微生物学/CDC/文献
+porphyromonas_asaccharolytica	338	Porphyromonas asaccharolytica	不解糖卟啉单胞菌				机会致病菌	厌氧感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	28123	species	医学微生物学/CDC/文献
+porphyromonas_endodontalis	339	Porphyromonas endodontalis	牙髓卟啉单胞菌				机会致病菌	牙髓感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Porphyromonadaceae	28124	species	医学微生物学/CDC/文献
+fusobacterium_mortiferum	340	Fusobacterium mortiferum	死亡梭杆菌				机会致病菌	厌氧感染	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	850	species	医学微生物学/CDC/文献
+fusobacterium_varium	341	Fusobacterium varium	变形梭杆菌				机会致病菌	厌氧感染、结肠炎相关	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	856	species	医学微生物学/CDC/文献
+fusobacterium_ulcerans	342	Fusobacterium ulcerans	溃疡梭杆菌				机会致病菌	厌氧感染	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	861	species	医学微生物学/CDC/文献
+leptotrichia_buccalis	343	Leptotrichia buccalis	颊纤毛菌				机会致病菌	菌血症(免疫低下)	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	40542	species	医学微生物学/CDC/文献
+sneathia_amnii	344	Sneathia amnii	羊膜斯尼思菌				机会致病菌	绒毛膜羊膜炎	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	187101	species	医学微生物学/CDC/文献
+peptostreptococcus_anaerobius	345	Peptostreptococcus anaerobius	厌氧消化链球菌				机会致病菌	混合厌氧感染	低	阳性	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	1261	species	医学微生物学/CDC/文献
+mycobacterium_chimaera	346	Mycobacterium chimaera	奇美拉分枝杆菌				机会致病菌	心脏手术相关感染、播散性感染（加热-冷却装置暴发）	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	245243	manual	医学微生物学/CDC/文献
+finegoldia_magna	347	Finegoldia magna	大芬戈尔德菌				机会致病菌	皮肤/骨关节厌氧感染	低	阳性	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	1260	species	医学微生物学/CDC/文献
+parvimonas_micra_2	348	Parvimonas micra	微小微单胞菌				机会致病菌	牙周感染、菌血症	低	阳性	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	33033	species	医学微生物学/CDC/文献
+anaerococcus_prevotii	349	Anaerococcus prevotii	普氏厌氧球菌				机会致病菌	厌氧感染	低	阳性	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	33034	species	医学微生物学/CDC/文献
+anaerococcus_vaginalis	350	Anaerococcus vaginalis	阴道厌氧球菌				机会致病菌	细菌性阴道病	低	阳性	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	33037	species	医学微生物学/CDC/文献
+peptoniphilus_asaccharolyticus	351	Peptoniphilus asaccharolyticus	不解糖嗜胨菌				机会致病菌	厌氧感染、褥疮	低	阳性	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	1258	species	医学微生物学/CDC/文献
+veillonella_parvula	352	Veillonella parvula	小韦荣球菌				机会致病菌	混合厌氧感染、心内膜炎	低	阳性	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	29466	species	医学微生物学/CDC/文献
+megasphaera_elsdenii	353	Megasphaera elsdenii	埃氏巨球型菌	Megasphaera spp.			机会致病菌	细菌性阴道病相关	低	阳性	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	907	species	医学微生物学/CDC/文献
+fannyhessea_vaginae	354	Fannyhessea vaginae	阴道奇异菌	Atopobium vaginae			机会致病菌	细菌性阴道病	低	阳性	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	82135	species	医学微生物学/CDC/文献
+mobiluncus_curtisii	355	Mobiluncus curtisii	柯氏动弯杆菌				机会致病菌	细菌性阴道病	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	2051	species	医学微生物学/CDC/文献
+bifidobacterium_dentium	356	Bifidobacterium dentium	齿双歧杆菌				机会致病菌	龋齿、机会性感染	低	阳性	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	1689	species	医学微生物学/CDC/文献
+slackia_exigua	357	Slackia exigua	微小斯氏菌				机会致病菌	厌氧感染(罕见)	低	阳性	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	84109	species	医学微生物学/CDC/文献
+collinsella_aerofaciens	358	Collinsella aerofaciens	产气柯林斯菌				机会致病菌	菌血症(罕见)	低	阳性	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	74426	species	医学微生物学/CDC/文献
+desulfovibrio_desulfuricans	359	Desulfovibrio desulfuricans	脱硫脱硫弧菌				肠道有害菌	产H2S、菌群失调	低	阴性	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	876	species	医学微生物学/CDC/文献
+proteus_mirabilis_2	360	Proteus mirabilis (肠道)	奇异变形杆菌(肠道)				肠道有害菌	菌群失调、肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	584	species	医学微生物学/CDC/文献
+enterococcus	361	Enterococcus (肠道失调)	肠球菌(肠道过度增殖)				肠道有害菌	抗生素后菌群失调	低	阴性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	1350	species	医学微生物学/CDC/文献
+shewanella_algae	362	Shewanella algae	海藻希瓦菌				机会致病菌	创伤/海水相关感染、菌血症	低	阴性	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	38313	manual	医学微生物学/CDC/文献
+ruminococcus_torques	363	Ruminococcus torques	扭链瘤胃球菌				肠道有害菌	IBD相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	33039	species	医学微生物学/CDC/文献
+campylobacter_concisus	364	Campylobacter concisus	简明弯曲菌				肠道有害菌	炎症性肠病相关	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	199	species	医学微生物学/CDC/文献
+fusobacterium_varium_2	365	Fusobacterium varium	变形梭杆菌(肠道)				肠道有害菌	溃疡性结肠炎相关	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	856	species	医学微生物学/CDC/文献
+peptostreptococcus_stomatis	366	Peptostreptococcus stomatis	口腔消化链球菌(肠道)				肠道有害菌	结直肠癌相关	低	阴性	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	341694	species	医学微生物学/CDC/文献
+solobacterium_moorei	367	Solobacterium moorei	穆尔溶杆菌				肠道有害菌	菌血症、与炎症相关	低	阴性	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	102148	species	医学微生物学/CDC/文献
+klebsiella_oxytoca_2	368	Klebsiella oxytoca (肠道)	产酸克雷伯菌(肠道)				肠道有害菌	菌群失调、出血性结肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	571	species	医学微生物学/CDC/文献
+clostridium_ramosum_2	369	Clostridium ramosum (肠道)	多枝梭菌(肠道)				肠道有害菌	菌群失调、肥胖相关	低	阴性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1485	genus	医学微生物学/CDC/文献
+oscillibacter_valericigenes	370	Oscillibacter valericigenes	产戊酸颤杆菌	Oscillibacter spp.			肠道有害菌	菌群失调相关(候选)	低	阴性	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	351091	species	医学微生物学/CDC/文献
+akkermansia	371	Akkermansia (失调型)	阿克曼菌(失调型)				肠道有害菌	黏液层降解、菌群失调相关	低	阴性	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Akkermansiaceae	239934	species	医学微生物学/CDC/文献
+alistipes_putredinis	372	Alistipes putredinis	腐败另枝菌	Alistipes spp.			肠道有害菌	菌群失调、炎症相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	28117	species	医学微生物学/CDC/文献
+bacteroides_vulgatus_2	373	Bacteroides vulgatus (失调)	普通拟杆菌(失调型)				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	816	genus	医学微生物学/CDC/文献
+odoribacter_splanchnicus	374	Odoribacter splanchnicus (失调)	内脏臭气杆菌(失调型)				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Odoribacteraceae	28118	species	医学微生物学/CDC/文献
+mycobacterium_avium	375	Mycobacterium avium (水源)	鸟分枝杆菌(水源)				机会致病菌	水源性机会感染	低	阴性	Actinomycetota	Actinomycetes	Mycobacteriales	Mycobacteriaceae	1764	species	医学微生物学/CDC/文献
+aeromonas_salmonicida	376	Aeromonas salmonicida	杀鲑气单胞菌	Aeromonas spp. (水源)			机会致病菌	水源性胃肠炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	645	species	医学微生物学/CDC/文献
+naegleria_fowleri	377	Naegleria fowleri	福氏耐格里原虫				病原菌	原发性阿米巴脑膜脑炎(原虫)	低	阴性						unmapped	医学微生物学/CDC/文献
+ewingella_americana	378	Ewingella americana	美洲爱文菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Yersiniaceae	41202	species	医学微生物学/CDC/文献
+moellerella_wisconsensis	379	Moellerella wisconsensis	威斯康星莫勒菌				机会致病菌	胃肠炎(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Morganellaceae	158849	species	医学微生物学/CDC/文献
+yokenella_regensburgei	380	Yokenella regensburgei	雷根斯堡预研菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	158877	species	医学微生物学/CDC/文献
+tatumella_ptyseos	381	Tatumella ptyseos	痰塔特姆菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Erwiniaceae	82987	species	医学微生物学/CDC/文献
+obesumbacterium_proteus	382	Obesumbacterium proteus	变形肥杆菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Hafniaceae	82983	species	医学微生物学/CDC/文献
+trabulsiella_guamensis	383	Trabulsiella guamensis	关岛特拉布氏菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	158852	species	医学微生物学/CDC/文献
+buttiauxella_agrestis	384	Buttiauxella agrestis	乡间布丘菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	82977	species	医学微生物学/CDC/文献
+budvicia_aquatica	385	Budvicia aquatica	水生布特维克菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Budviciaceae	82979	species	医学微生物学/CDC/文献
+pragia_fontium	386	Pragia fontium	普拉格菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Budviciaceae	82985	species	医学微生物学/CDC/文献
+leminorella_richardii	387	Leminorella richardii	理查德勒米诺菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Budviciaceae	158841	species	医学微生物学/CDC/文献
+pseudomonas_alcaligenes	388	Pseudomonas alcaligenes	产碱假单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	507	species	医学微生物学/CDC/文献
+pseudomonas_mendocina	389	Pseudomonas mendocina	门多萨假单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	300	species	医学微生物学/CDC/文献
+ectopseudomonas_oleovorans	390	Ectopseudomonas oleovorans	食油外假单胞菌	Pseudomonas pseudoalcaligenes			机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	301	species	医学微生物学/CDC/文献
+burkholderia_thailandensis	391	Burkholderia thailandensis	泰国伯克霍尔德菌				机会致病菌	机会性感染(类鼻疽近缘)	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	57975	species	医学微生物学/CDC/文献
+burkholderia_vietnamiensis	392	Burkholderia vietnamiensis	越南伯克霍尔德菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	60552	species	医学微生物学/CDC/文献
+burkholderia_multivorans	393	Burkholderia multivorans	多噬伯克霍尔德菌				机会致病菌	囊性纤维化感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	87883	species	医学微生物学/CDC/文献
+burkholderia_stabilis	394	Burkholderia stabilis	稳定伯克霍尔德菌				机会致病菌	囊性纤维化感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	95485	species	医学微生物学/CDC/文献
+pandoraea_norimbergensis	395	Pandoraea norimbergensis	纽伦堡潘多拉菌	Pandoraea spp.			机会致病菌	囊性纤维化感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	93219	species	医学微生物学/CDC/文献
+ralstonia_mannitolilytica	396	Ralstonia mannitolilytica	甘露醇罗尔斯顿菌				机会致病菌	机会性感染、菌血症	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	105219	species	医学微生物学/CDC/文献
+ralstonia_insidiosa	397	Ralstonia insidiosa	狡诈罗尔斯顿菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	190721	species	医学微生物学/CDC/文献
+cupriavidus_pauculus	398	Cupriavidus pauculus	少食铜菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Burkholderiaceae	82633	species	医学微生物学/CDC/文献
+herbaspirillum_seropedicae	399	Herbaspirillum seropedicae	塞罗佩迪卡草螺菌	Herbaspirillum spp.			机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	964	species	医学微生物学/CDC/文献
+ochrobactrum_anthropi	400	Ochrobactrum anthropi	人苍白杆菌				机会致病菌	菌血症(导管相关)	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	529	species	医学微生物学/CDC/文献
+brucella_intermedia	401	Brucella intermedia	中间苍白杆菌	Ochrobactrum intermedium			机会致病菌	机会性感染	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Brucellaceae	94625	species	医学微生物学/CDC/文献
+rhizobium_radiobacter	402	Rhizobium radiobacter	放射根瘤菌				机会致病菌	菌血症(导管相关)	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	362	species	医学微生物学/CDC/文献
+agrobacterium_tumefaciens	403	Agrobacterium tumefaciens	根癌农杆菌				机会致病菌	机会性感染(免疫低下)	低	阴性	Pseudomonadota	Alphaproteobacteria	Hyphomicrobiales	Rhizobiaceae	358	species	医学微生物学/CDC/文献
+brevundimonas_vesicularis	404	Brevundimonas vesicularis	泡囊短波单胞菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	41276	species	医学微生物学/CDC/文献
+myroides_odoratus	405	Myroides odoratus	芳香黄杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	256	species	医学微生物学/CDC/文献
+myroides_odoratimimus	406	Myroides odoratimimus	拟芳香黄杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	76832	species	医学微生物学/CDC/文献
+sphingobacterium_multivorum	407	Sphingobacterium multivorum	多食鞘氨醇杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	28454	species	医学微生物学/CDC/文献
+sphingobacterium_spiritivorum	408	Sphingobacterium spiritivorum	食神鞘氨醇杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	258	species	医学微生物学/CDC/文献
+empedobacter_brevis	409	Empedobacter brevis	短稳杆菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	247	species	医学微生物学/CDC/文献
+weeksella_virosa	410	Weeksella virosa	有毒威克斯菌				机会致病菌	机会性感染	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	1014	species	医学微生物学/CDC/文献
+bergeyella_zoohelcum	411	Bergeyella zoohelcum	动物溃疡伯杰菌				机会致病菌	动物咬伤感染	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Weeksellaceae	1015	species	医学微生物学/CDC/文献
+oligella_urethralis	412	Oligella urethralis	尿道寡源杆菌				机会致病菌	尿路感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	90245	species	医学微生物学/CDC/文献
+oligella_ureolytica	413	Oligella ureolytica	解脲寡源杆菌				机会致病菌	尿路感染、结石	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	90244	species	医学微生物学/CDC/文献
+bordetella_avium	414	Bordetella avium	禽鲍特菌				机会致病菌	机会性感染(罕见)	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	521	species	医学微生物学/CDC/文献
+bordetella_hinzii	415	Bordetella hinzii	欣氏鲍特菌				机会致病菌	呼吸道感染(免疫低下)	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	103855	species	医学微生物学/CDC/文献
+bordetella_trematum	416	Bordetella trematum	创口鲍特菌				机会致病菌	伤口感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	123899	species	医学微生物学/CDC/文献
+francisella_philomiragia	417	Francisella philomiragia	嗜鱼弗朗西斯菌				机会致病菌	机会性感染(水接触)	低	阴性	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Francisellaceae	28110	species	医学微生物学/CDC/文献
+francisella_novicida	418	Francisella novicida	新凶手弗朗西斯菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Francisellaceae	264	species	医学微生物学/CDC/文献
+legionella_bozemanae	419	Legionella bozemanae	博氏军团菌	Legionella bozemanii			机会致病菌	肺炎(免疫低下)	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	447	species	医学微生物学/CDC/文献
+fluoribacter_dumoffii	420	Fluoribacter dumoffii	杜氏军团菌	Legionella dumoffii			机会致病菌	肺炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	463	species	医学微生物学/CDC/文献
+legionella_feeleii	421	Legionella feeleii	菲利军团菌				机会致病菌	肺炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	453	species	医学微生物学/CDC/文献
+fluoribacter_gormanii	422	Fluoribacter gormanii	戈尔曼军团菌	Legionella gormanii			机会致病菌	肺炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	464	species	医学微生物学/CDC/文献
+legionella_anisa	423	Legionella anisa	茴香军团菌				机会致病菌	肺炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	28082	species	医学微生物学/CDC/文献
+legionella_jordanis	424	Legionella jordanis	约旦军团菌				机会致病菌	肺炎	低	阴性	Pseudomonadota	Gammaproteobacteria	Legionellales	Legionellaceae	456	species	医学微生物学/CDC/文献
+kingella_denitrificans	425	Kingella denitrificans	反硝化金氏菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	502	species	医学微生物学/CDC/文献
+kingella_oralis	426	Kingella oralis	口腔金氏菌				机会致病菌	牙周感染	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	505	species	医学微生物学/CDC/文献
+neisseria_elongata	427	Neisseria elongata	延长奈瑟菌				机会致病菌	心内膜炎	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	495	species	医学微生物学/CDC/文献
+neisseria_weaveri	428	Neisseria weaveri	韦弗奈瑟菌				机会致病菌	动物咬伤感染	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	28091	species	医学微生物学/CDC/文献
+neisseria_mucosa	429	Neisseria mucosa	黏液奈瑟菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	488	species	医学微生物学/CDC/文献
+neisseria_subflava	430	Neisseria subflava	微黄奈瑟菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	28449	species	医学微生物学/CDC/文献
+neisseria_sicca	431	Neisseria sicca	干燥奈瑟菌				机会致病菌	机会性感染	低	阴性	Pseudomonadota	Betaproteobacteria	Neisseriales	Neisseriaceae	490	species	医学微生物学/CDC/文献
+faucicola_atlantae	432	Faucicola atlantae	亚特兰大莫拉菌	Moraxella atlantae			机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	34059	species	医学微生物学/CDC/文献
+lwoffella_lincolnii	433	Lwoffella lincolnii	林肯莫拉菌	Moraxella lincolnii			机会致病菌	机会性感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Moraxellales	Moraxellaceae	90241	species	医学微生物学/CDC/文献
+corynebacterium_accolens	434	Corynebacterium accolens	异栖棒杆菌				机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	38284	species	医学微生物学/CDC/文献
+corynebacterium_macginleyi	435	Corynebacterium macginleyi	麦氏棒杆菌				机会致病菌	结膜炎	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	38290	species	医学微生物学/CDC/文献
+corynebacterium_propinquum	436	Corynebacterium propinquum	邻近棒杆菌				机会致病菌	呼吸道机会感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	43769	species	医学微生物学/CDC/文献
+corynebacterium_pseudodiphtheriticum	437	Corynebacterium pseudodiphtheriticum	假白喉棒杆菌				机会致病菌	呼吸道机会感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	37637	species	医学微生物学/CDC/文献
+corynebacterium_tuberculostearicum	438	Corynebacterium tuberculostearicum	结核硬脂酸棒杆菌				机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	38304	species	医学微生物学/CDC/文献
+corynebacterium_aurimucosum	439	Corynebacterium aurimucosum	金黄黏液棒杆菌				机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	169292	species	医学微生物学/CDC/文献
+corynebacterium_glucuronolyticum	440	Corynebacterium glucuronolyticum	解葡萄糖醛酸棒杆菌				机会致病菌	尿路感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	39791	species	医学微生物学/CDC/文献
+corynebacterium_riegelii	441	Corynebacterium riegelii	里氏棒杆菌				机会致病菌	尿路感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	156976	species	医学微生物学/CDC/文献
+cellulomonas_flavigena	442	Cellulomonas flavigena	产黄纤维单胞菌	Cellulomonas spp.			机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Cellulomonadaceae	1711	species	医学微生物学/CDC/文献
+cellulosimicrobium_cellulans	443	Cellulosimicrobium cellulans	产纤维纤维微菌				机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Promicromonosporaceae	1710	species	医学微生物学/CDC/文献
+dermabacter_hominis	444	Dermabacter hominis	人皮肤杆菌				机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Dermabacteraceae	36740	species	医学微生物学/CDC/文献
+microbacterium_testaceum	445	Microbacterium testaceum	砖红微杆菌	Microbacterium spp.			机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Microbacteriaceae	2033	species	医学微生物学/CDC/文献
+corynebacterium_otitidis	446	Corynebacterium otitidis	耳炎棒杆菌	Turicella otitidis			机会致病菌	中耳炎	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	29321	species	医学微生物学/CDC/文献
+arthrobacter_globiformis	447	Arthrobacter globiformis	球形节杆菌	Arthrobacter spp.			机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	1665	species	医学微生物学/CDC/文献
+brevibacterium_casei	448	Brevibacterium casei	奶酪短杆菌				机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Brevibacteriaceae	33889	species	医学微生物学/CDC/文献
+oerskovia_turbata	449	Oerskovia turbata	骚动厄氏菌				机会致病菌	机会性感染(免疫低下)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Cellulomonadaceae	1713	species	医学微生物学/CDC/文献
+exiguobacterium_sibiricum	450	Exiguobacterium sibiricum	西伯利亚微小杆菌	Exiguobacterium spp.			机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Caryophanales		340145	species	医学微生物学/CDC/文献
+rothia_kristinae	451	Rothia kristinae	克氏罗氏菌	Kocuria kristinae			机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	37923	species	医学微生物学/CDC/文献
+kocuria_rosea	452	Kocuria rosea	玫瑰考克菌				机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	1275	species	医学微生物学/CDC/文献
+micrococcus_luteus	453	Micrococcus luteus	藤黄微球菌				机会致病菌	机会性感染(免疫低下)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	1270	species	医学微生物学/CDC/文献
+rothia_dentocariosa	454	Rothia dentocariosa	龋齿罗氏菌				机会致病菌	心内膜炎	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	2047	species	医学微生物学/CDC/文献
+rothia_mucilaginosa	455	Rothia mucilaginosa	黏液罗氏菌				机会致病菌	菌血症(免疫低下)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	43675	species	医学微生物学/CDC/文献
+stomatococcus_mucilaginosus	456	Stomatococcus mucilaginosus	黏液口腔球菌				机会致病菌	菌血症(免疫低下)	低	阳性	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	43675	species	医学微生物学/CDC/文献
+abiotrophia_defectiva	457	Abiotrophia defectiva	缺陷乏养菌				机会致病菌	心内膜炎(营养变异链球菌)	低	阳性	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	46125	species	医学微生物学/CDC/文献
+granulicatella_adiacens	458	Granulicatella adiacens	毗邻颗粒链菌				机会致病菌	心内膜炎	低	阳性	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	46124	species	医学微生物学/CDC/文献
+gemella_morbillorum	459	Gemella morbillorum	麻疹孪生球菌				机会致病菌	心内膜炎	低	阳性	Bacillota	Bacilli	Caryophanales	Gemellaceae	29391	species	医学微生物学/CDC/文献
+gemella_haemolysans	460	Gemella haemolysans	溶血孪生球菌				机会致病菌	心内膜炎	低	阳性	Bacillota	Bacilli	Caryophanales	Gemellaceae	1379	species	医学微生物学/CDC/文献
+leuconostoc_mesenteroides	461	Leuconostoc mesenteroides	肠膜明串珠菌	Leuconostoc spp.			机会致病菌	菌血症(免疫低下)	低	阳性	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	1243	species	医学微生物学/CDC/文献
+pediococcus_stilesii	462	Pediococcus stilesii	斯氏片球菌	Pediococcus spp.			机会致病菌	菌血症(免疫低下)	低	阳性	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	1253	species	医学微生物学/CDC/文献
+aerococcus_urinae	463	Aerococcus urinae	尿道气球菌				机会致病菌	尿路感染、心内膜炎	低	阳性	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	1376	species	医学微生物学/CDC/文献
+aerococcus_viridans	464	Aerococcus viridans	绿色气球菌				机会致病菌	尿路感染、菌血症	低	阳性	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	1377	species	医学微生物学/CDC/文献
+lactococcus_garvieae	465	Lactococcus garvieae	格氏乳球菌				机会致病菌	心内膜炎(鱼类接触)	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1363	species	医学微生物学/CDC/文献
+lactococcus_lactis	466	Lactococcus lactis	乳酸乳球菌				机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1358	species	医学微生物学/CDC/文献
+alloiococcus_otitis	467	Alloiococcus otitis	耳炎异球菌				机会致病菌	中耳炎	低	阳性	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	1652	species	医学微生物学/CDC/文献
+globicatella_sanguinis	468	Globicatella sanguinis	血球链菌				机会致病菌	菌血症	低	阳性	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	13076	species	医学微生物学/CDC/文献
+helcococcus_kunzii	469	Helcococcus kunzii	孔氏溃疡球菌				机会致病菌	皮肤软组织感染	低	阳性	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	40091	species	医学微生物学/CDC/文献
+facklamia_lactis	470	Facklamia lactis	乳法克拉米亚菌	Facklamia spp.			机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	66831	species	医学微生物学/CDC/文献
+ignavigranum_ruoffiae	471	Ignavigranum ruoffiae	鲁氏惰性颗粒菌	Ignavigranum spp.			机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Lactobacillales	Aerococcaceae	89093	species	医学微生物学/CDC/文献
+dolosigranulum_pigrum	472	Dolosigranulum pigrum	惰性微球菌				机会致病菌	机会性感染(罕见)	低	阳性	Bacillota	Bacilli	Lactobacillales	Carnobacteriaceae	29394	species	医学微生物学/CDC/文献
+enterococcus_mundtii	473	Enterococcus mundtii	蒙氏肠球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	53346	species	医学微生物学/CDC/文献
+enterococcus_columbae	474	Enterococcus columbae	鸽肠球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	1355	species	医学微生物学/CDC/文献
+enterococcus_saccharolyticus	475	Enterococcus saccharolyticus	解糖肠球菌				机会致病菌	机会性感染	低	阳性	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	41997	species	医学微生物学/CDC/文献
+bacteroides_caccae	476	Bacteroides caccae	粪拟杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	47678	species	医学微生物学/CDC/文献
+bacteroides_eggerthii	477	Bacteroides eggerthii	埃氏拟杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	28111	species	医学微生物学/CDC/文献
+bacteroides_stercoris	478	Bacteroides stercoris	粪臭拟杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	46506	species	医学微生物学/CDC/文献
+phocaeicola_dorei	479	Phocaeicola dorei	多雷拟杆菌	Bacteroides dorei			肠道有害菌	与自身免疫疾病相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	816	genus	医学微生物学/CDC/文献
+parabacteroides_distasonis	480	Parabacteroides distasonis	吉氏副拟杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	823	species	医学微生物学/CDC/文献
+parabacteroides_merdae	481	Parabacteroides merdae	粪副拟杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	46503	species	医学微生物学/CDC/文献
+parabacteroides_goldsteinii	482	Parabacteroides goldsteinii	戈氏副拟杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	328812	species	医学微生物学/CDC/文献
+blautia_producta	483	Blautia producta	产丁酸劳特氏菌				肠道有害菌	菌群失调相关(条件性)	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	33035	species	医学微生物学/CDC/文献
+blautia_hydrogenotrophica	484	Blautia hydrogenotrophica	氢营养劳特氏菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	53443	species	医学微生物学/CDC/文献
+dorea_formicigenerans	485	Dorea formicigenerans	产甲酸多尔菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	39486	species	医学微生物学/CDC/文献
+dorea_longicatena	486	Dorea longicatena	长链多尔菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	88431	species	医学微生物学/CDC/文献
+clostridium_symbiosum	487	Clostridium symbiosum	共生梭菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	1512	species	医学微生物学/CDC/文献
+clostridium_clostridioforme	488	Clostridium clostridioforme	梭形梭菌				肠道有害菌	菌群失调、机会感染	低	阴性	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	1485	genus	医学微生物学/CDC/文献
+aeromonas_dhakensis	489	Aeromonas dhakensis	达卡气单胞菌				病原菌	软组织感染、菌血症、肝脓肿（毒力强于嗜水气单胞菌）	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	196444	manual	医学微生物学/CDC/文献
+enterobacter_kobei	490	Enterobacter kobei	神户肠杆菌				机会致病菌	院内感染、血流感染、ESBL 耐药	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	208224	manual	医学微生物学/CDC/文献
+enterocloster_citroniae	491	Enterocloster citroniae	柠檬酸梭菌	Clostridium citroniae			肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	358743	species	医学微生物学/CDC/文献
+agathobacter_rectalis	492	Agathobacter rectalis	直肠真杆菌	Eubacterium rectale			肠道有害菌	菌群失调相关(条件性)	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	39491	species	医学微生物学/CDC/文献
+anaerobutyricum_hallii	493	Anaerobutyricum hallii	哈利厌氧丁酸菌	Eubacterium hallii			肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	39488	species	医学微生物学/CDC/文献
+faecalibacterium_prausnitzii	494	Faecalibacterium prausnitzii(失调型)	普拉梭菌(失调型)				肠道有害菌	克罗恩病相关(减少)	低	阴性	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	853	species	医学微生物学/CDC/文献
+roseburia_intestinalis	495	Roseburia intestinalis	肠道罗斯氏菌				肠道有害菌	菌群失调相关(条件性)	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	166486	species	医学微生物学/CDC/文献
+anaerostipes_caccae	496	Anaerostipes caccae	粪厌氧丁酸菌	Anaerosipes caccae			肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	105841	species	医学微生物学/CDC/文献
+eisenbergiella_tayi	497	Eisenbergiella tayi	泰勒艾森伯格菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	1432052	species	医学微生物学/CDC/文献
+enterocloster_bolteae	498	Enterocloster bolteae	博氏肠梭菌				肠道有害菌	IBD相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	208479	species	医学微生物学/CDC/文献
+enterocloster_clostridioformis	499	Enterocloster clostridioformis	梭形肠梭菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	1531	species	医学微生物学/CDC/文献
+hungatella_hathewayi	500	Hungatella hathewayi	哈氏亨盖特菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	154046	species	医学微生物学/CDC/文献
+tyzzerella_nexilis	501	Tyzzerella nexilis	纳氏泰泽菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	29361	species	医学微生物学/CDC/文献
+intestinibacter_bartlettii	502	Intestinibacter bartlettii	巴氏肠杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Peptostreptococcales	Peptostreptococcaceae	261299	species	医学微生物学/CDC/文献
+tsukamurella_paurometabola	503	Tsukamurella paurometabola	少变塚村氏菌				机会致病菌	导管相关血流感染、免疫低下者感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Tsukamurellaceae	2061	manual	医学微生物学/CDC/文献
+thomasclavelia_ramosa	504	Thomasclavelia ramosa	多枝丹毒梭菌	Erysipelatoclostridium ramosum			肠道有害菌	菌群失调、肥胖相关	低	阴性	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	1547	species	医学微生物学/CDC/文献
+flavonifractor_plautii	505	Flavonifractor plautii	普氏黄酮分解菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	292800	species	医学微生物学/CDC/文献
+pseudoflavonifractor_capillosus	506	Pseudoflavonifractor capillosus	毛细假黄酮分解菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	106588	species	医学微生物学/CDC/文献
+gordonibacter_pamelaeae	507	Gordonibacter pamelaeae	帕氏戈登菌				肠道有害菌	菌群失调相关	低	阴性	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	471189	species	医学微生物学/CDC/文献
+anaerotruncus_colihominis	508	Anaerotruncus colihominis	人结肠厌氧短杆菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	169435	species	医学微生物学/CDC/文献
+acidaminococcus_fermentans	509	Acidaminococcus fermentans	发酵氨基酸球菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	905	species	医学微生物学/CDC/文献
+acidaminococcus_intestini	510	Acidaminococcus intestini	肠氨基酸球菌				肠道有害菌	菌群失调相关	低	阴性	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	187327	species	医学微生物学/CDC/文献
+phascolarctobacterium_succinatutens	511	Phascolarctobacterium succinatutens	产琥珀酸考拉杆菌	Phascolarctobacterium spp.			肠道有害菌	菌群失调相关	低	阴性	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	626940	species	医学微生物学/CDC/文献
+succinivibrio_dextrinosolvens	512	Succinivibrio dextrinosolvens	溶糊精琥珀酸弧菌				肠道有害菌	菌群失调相关	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	83771	species	医学微生物学/CDC/文献
+sutterella_wadsworthensis	513	Sutterella wadsworthensis	沃氏萨特菌				肠道有害菌	与孤独症/IBD相关	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	40545	species	医学微生物学/CDC/文献
+parasutterella_excrementihominis	514	Parasutterella excrementihominis	人粪副萨特菌				肠道有害菌	菌群失调相关	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	487175	species	医学微生物学/CDC/文献
+lawsonia_intracellularis	515	Lawsonia intracellularis	胞内劳森菌				病原菌	增生性肠病(动物为主)	低	阴性	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	29546	species	医学微生物学/CDC/文献
+brachyspira_pilosicoli	516	Brachyspira pilosicoli	结肠菌毛短螺旋体				病原菌	人兽共患结肠炎	低	阴性	Spirochaetota	Spirochaetia	Brachyspirales	Brachyspiraceae	52584	species	医学微生物学/CDC/文献
+brachyspira_aalborgi	517	Brachyspira aalborgi	奥尔堡短螺旋体				病原菌	人肠道螺旋体病	低	阴性	Spirochaetota	Spirochaetia	Brachyspirales	Brachyspiraceae	29522	species	医学微生物学/CDC/文献
+streptococcus_equi_subsp_zooepidemicus	518	Streptococcus equi subsp. zooepidemicus	马链球菌兽瘟亚种				病原菌	人兽共患感染	低	阴性	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	1336	species	医学微生物学/CDC/文献
+rhodococcus_erythropolis	519	Rhodococcus erythropolis	红串红球菌				机会致病菌	免疫低下者的导管/血流感染	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Nocardiaceae	1833	manual	医学微生物学/CDC/文献
+elizabethkingia_miricola	520	Elizabethkingia miricola	米尔伊丽莎白金菌				机会致病菌	院内暴发、血流感染、脑膜炎	低	阴性	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	125569	manual	医学微生物学/CDC/文献
+bordetella_bronchiseptica_2	521	Bordetella bronchiseptica	支气管败血鲍特菌(动物)				机会致病菌	动物源呼吸道感染	低	阴性	Pseudomonadota	Betaproteobacteria	Burkholderiales	Alcaligenaceae	518	species	医学微生物学/CDC/文献
+leptospira_borgpetersenii	522	Leptospira borgpetersenii	博氏钩端螺旋体				病原菌	钩端螺旋体病	低	阴性	Spirochaetota	Leptospiria	Leptospirales	Leptospiraceae	174	species	医学微生物学/CDC/文献
+leptospira_kirschneri	523	Leptospira kirschneri	克斯氏钩端螺旋体				病原菌	钩端螺旋体病	低	阴性	Spirochaetota	Leptospiria	Leptospirales	Leptospiraceae	29507	species	医学微生物学/CDC/文献
+ehrlichia_canis	524	Ehrlichia canis	犬埃立克体				病原菌	犬埃立克体病(人罕见)	低	阴性	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Anaplasmataceae	944	species	医学微生物学/CDC/文献
+rickettsia_felis	525	Rickettsia felis	猫蚤立克次体				病原菌	猫蚤斑疹热	低	阴性	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	42862	species	医学微生物学/CDC/文献
+rickettsia_parkeri	526	Rickettsia parkeri	帕氏立克次体				病原菌	帕氏立克次体病	低	阴性	Pseudomonadota	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	35792	species	医学微生物学/CDC/文献
+bacteroides_pyogenes	527	Bacteroides pyogenes	化脓拟杆菌				机会致病菌	菌血症、脓肿	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	310300	species	医学微生物学/CDC/文献
+alistipes_finegoldii	528	Alistipes finegoldii	芬戈尔德另枝菌				机会致病菌	菌血症、腹腔感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	214856	species	医学微生物学/CDC/文献
+alistipes_onderdonkii	529	Alistipes onderdonkii	翁氏另枝菌				机会致病菌	菌血症	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	328813	species	医学微生物学/CDC/文献
+raoultella_terrigena	530	Raoultella terrigena	土生拉乌尔菌				机会致病菌	环境来源的机会感染	低	阴性	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	575	manual	医学微生物学/CDC/文献
+desulfovibrio_fairfieldensis	531	Desulfovibrio fairfieldensis	费尔菲尔德脱硫弧菌				机会致病菌	菌血症、腹腔感染	低	阴性	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	44742	species	医学微生物学/CDC/文献
+anaerobiospirillum_succiniciproducens	532	Anaerobiospirillum succiniciproducens	产琥珀酸厌氧螺菌				机会致病菌	菌血症、腹泻(免疫低下)	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	13335	species	医学微生物学/CDC/文献
+anaerobiospirillum_thomasii	533	Anaerobiospirillum thomasii	托马斯厌氧螺菌				机会致病菌	菌血症、腹泻	低	阴性	Pseudomonadota	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	179995	species	医学微生物学/CDC/文献
+campylobacter_gracilis	534	Campylobacter gracilis	纤细弯曲菌				机会致病菌	深部脓肿	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	824	species	医学微生物学/CDC/文献
+campylobacter_rectus	535	Campylobacter rectus	直肠弯曲菌				机会致病菌	牙周感染	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	203	species	医学微生物学/CDC/文献
+campylobacter_curvus	536	Campylobacter curvus	弯曲弯曲菌				机会致病菌	牙周感染	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	200	species	医学微生物学/CDC/文献
+campylobacter_showae	537	Campylobacter showae	肖氏弯曲菌				机会致病菌	牙周感染	低	阴性	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	204	species	医学微生物学/CDC/文献
+selenomonas_spp	538	Selenomonas spp.	月形单胞菌属				机会致病菌	牙周感染	低	阴性	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae	970	species	医学微生物学/CDC/文献
+centipeda_periodontii	539	Centipeda periodontii	牙周蜈蚣菌				机会致病菌	牙周感染	低	阴性	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae	82203	species	医学微生物学/CDC/文献
+tannerella_forsythia	540	Tannerella forsythia	福赛坦纳菌				机会致病菌	牙周病	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	28112	species	医学微生物学/CDC/文献
+treponema_denticola	541	Treponema denticola	齿垢密螺旋体				机会致病菌	牙周病	低	阴性	Spirochaetota	Spirochaetia	Treponematales	Treponemataceae	158	species	医学微生物学/CDC/文献
+filifactor_alocis	542	Filifactor alocis	沟槽丝状菌				机会致病菌	牙周病	低	阴性	Bacillota	Clostridia	Peptostreptococcales	Filifactoraceae	143361	species	医学微生物学/CDC/文献
+catonella_morbi	543	Catonella morbi	病卡特菌				机会致病菌	牙周/深部感染	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	43997	species	医学微生物学/CDC/文献
+johnsonella_ignava	544	Johnsonella ignava	惰性约翰逊菌				机会致病菌	牙周感染	低	阴性	Bacillota	Clostridia	Lachnospirales	Lachnospiraceae	43995	species	医学微生物学/CDC/文献
+dialister_pneumosintes	545	Dialister pneumosintes	产气戴阿李斯特菌				机会致病菌	菌血症、牙源性感染	低	阴性	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	39950	species	医学微生物学/CDC/文献
+dialister_invisus	546	Dialister invisus	隐匿戴阿李斯特菌				机会致病菌	牙周感染	低	阴性	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	218538	species	医学微生物学/CDC/文献
+selenomonas_sputigena	547	Selenomonas sputigena	生痰月形单胞菌				机会致病菌	牙周感染、菌血症	低	阴性	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae	69823	species	医学微生物学/CDC/文献
+centipeda_noxia	548	Centipeda noxia	诺氏月形单胞菌	Selenomonas noxia			机会致病菌	牙周感染	低	阴性	Bacillota	Negativicutes	Selenomonadales	Selenomonadaceae	135083	species	医学微生物学/CDC/文献
+prevotella_nigrescens	549	Prevotella nigrescens	变黑普雷沃菌				机会致病菌	牙周感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	28133	species	医学微生物学/CDC/文献
+hoylesella_loescheii	550	Hoylesella loescheii	洛氏霍氏菌	Prevotella loescheii			机会致病菌	牙周感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	840	species	医学微生物学/CDC/文献
+segatella_oris	551	Segatella oris	口腔普雷沃菌	Prevotella oris			机会致病菌	口腔厌氧感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	838	genus	医学微生物学/CDC/文献
+segatella_buccae	552	Segatella buccae	颊普雷沃菌	Prevotella buccae			机会致病菌	口腔厌氧感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	838	genus	医学微生物学/CDC/文献
+fusobacterium_periodonticum	553	Fusobacterium periodonticum	牙周梭杆菌				机会致病菌	牙周感染	低	阴性	Fusobacteriota	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	860	species	医学微生物学/CDC/文献
+prevotella_heparinolytica	554	Prevotella heparinolytica	解肝素普雷沃菌	Bacteroides heparinolyticus			机会致病菌	口腔厌氧感染	低	阴性	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	28113	species	医学微生物学/CDC/文献
+corynebacterium_matruchotii	555	Corynebacterium matruchotii	马氏棒杆菌				机会致病菌	牙石相关(罕见致病)	低	阳性	Actinomycetota	Actinomycetes	Mycobacteriales	Corynebacteriaceae	43768	species	医学微生物学/CDC/文献
+actinomyces_viscosus	556	Actinomyces viscosus	黏性放线菌				机会致病菌	牙周炎、放线菌病	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1656	species	医学微生物学/CDC/文献
+actinomyces_oris	557	Actinomyces oris	口腔放线菌	Actinomyces gerencseriae			机会致病菌	放线菌病	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	544580	species	医学微生物学/CDC/文献
+schaalia_turicensis	558	Schaalia turicensis	图里放线菌	Actinomyces turicensis			机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1654	genus	医学微生物学/CDC/文献
+winkia_neuii	559	Winkia neuii	纽氏放线菌	Actinomyces neuii			机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1654	genus	医学微生物学/CDC/文献
+schaalia_radingae	560	Schaalia radingae	拉丁放线菌	Actinomyces radingae			机会致病菌	机会性感染	低	阳性	Actinomycetota	Actinomycetes	Actinomycetales	Actinomycetaceae	1654	genus	医学微生物学/CDC/文献
+arachnia_propionica	561	Arachnia propionica	丙酸蛛网菌	Propionibacterium propionicum			机会致病菌	泪小管炎、放线菌病样	低	阳性	Actinomycetota	Actinomycetes	Propionibacteriales	Propionibacteriaceae	1743	genus	医学微生物学/CDC/文献
+bifidobacterium_spp	562	Bifidobacterium spp. (机会株)	双歧杆菌属(机会株)				机会致病菌	菌血症(罕见)	低	阳性	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	1678	species	医学微生物学/CDC/文献
+bifidobacterium_breve	563	Bifidobacterium breve	短双歧杆菌				机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	1685	species	医学微生物学/CDC/文献
+bifidobacterium_longum	564	Bifidobacterium longum	长双歧杆菌				机会致病菌	机会性感染(罕见)	低	阳性	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	216816	species	医学微生物学/CDC/文献

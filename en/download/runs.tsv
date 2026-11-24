@@ -1,0 +1,565 @@
+species_id	latin	zh	run_id	status	granularity
+abiotrophia_defectiva	Abiotrophia defectiva		20261103-234202-3830ef42	COMPLETED	tar
+achromobacter_denitrificans	Achromobacter denitrificans	反硝化无色杆菌	20261114-192350-36d9cf13	COMPLETED	tar
+achromobacter_xylosoxidans	Achromobacter xylosoxidans	木糖氧化无色杆菌	20261114-152055-91b22198	COMPLETED	tar
+acidaminococcus_fermentans	Acidaminococcus fermentans		20261105-102214-8497ee2f	COMPLETED	tar
+acidaminococcus_intestini	Acidaminococcus intestini		20261105-130855-9c7953f9	COMPLETED	tar
+acinetobacter_baumannii	Acinetobacter baumannii	鲍曼不动杆菌	20261015-222351-007196e2	COMPLETED	tar
+acinetobacter_haemolyticus	Acinetobacter haemolyticus	溶血不动杆菌	20261114-200627-f1f2d9e0	COMPLETED	tar
+acinetobacter_junii	Acinetobacter junii	琼氏不动杆菌	20261114-170221-5cdf46ce	COMPLETED	tar
+acinetobacter_lwoffii	Acinetobacter lwoffii	洛菲不动杆菌	20261114-131926-a299a1e8	COMPLETED	tar
+acinetobacter_nosocomialis	Acinetobacter nosocomialis	医院不动杆菌	20261114-094920-b2e67014	COMPLETED	tar
+acinetobacter_pittii	Acinetobacter pittii		20261113-211813-5df31acb	COMPLETED	tar
+actinomyces_israelii	Actinomyces israelii	衣氏放线菌	20261025-184827-3a358e90	COMPLETED	tar
+actinomyces_naeslundii	Actinomyces naeslundii	内氏放线菌	20261025-213204-86369f9f	COMPLETED	tar
+actinomyces_oris	Actinomyces oris		20261106-091706-1e8508fc	COMPLETED	tar
+actinomyces_viscosus	Actinomyces viscosus		20261105-091320-c952e758	COMPLETED	tar
+adherent_invasive_e_coli_aiec	Escherichia coli O83:H1 (strain NRG 857C / AIEC)		20261113-205220-9f8cf9cb	COMPLETED	tar
+aerococcus_urinae	Aerococcus urinae	尿道气球菌	20261104-143406-25d761a7	COMPLETED	tar
+aerococcus_viridans	Aerococcus viridans	绿色气球菌	20261117-010514-7a84f7e0	COMPLETED	tar
+aeromonas_caviae	Aeromonas caviae	豚鼠气单胞菌	20261028-202533-eed9739c	COMPLETED	tar
+aeromonas_dhakensis	Aeromonas dhakensis		20261116-091329-6da1a2db	COMPLETED	tar
+aeromonas_hydrophila	Aeromonas hydrophila	嗜水气单胞菌	20261028-165049-e13cea4f	COMPLETED	tar
+aeromonas_salmonicida	Aeromonas salmonicida		20261106-190357-66871733	COMPLETED	tar
+aeromonas_sobria	Aeromonas sobria	温和气单胞菌	20261028-112627-3f0b94d2	COMPLETED	tar
+aeromonas_veronii	Aeromonas veronii	维罗纳气单胞菌	20261028-105746-c9108765	COMPLETED	tar
+agathobacter_rectalis	Agathobacter rectalis		20261104-153734-ea0ac251	COMPLETED	tar
+aggregatibacter_actinomycetemcomitans	Aggregatibacter actinomycetemcomitans	伴放线聚集杆菌	20261117-010643-dc2fb0ec	COMPLETED	tar
+aggregatibacter_aphrophilus	Aggregatibacter aphrophilus	嗜沫聚集杆菌	20261102-165624-695f70e8	COMPLETED	tar
+agrobacterium_tumefaciens	Agrobacterium tumefaciens	根癌农杆菌	20261114-152027-7d6f7006	COMPLETED	tar
+akkermansia	Akkermansia		20261101-124423-73be2f09	COMPLETED	tar
+alcaligenes_faecalis	Alcaligenes faecalis	粪产碱杆菌	20261115-173003-e8ddd643	COMPLETED	tar
+alistipes_finegoldii	Alistipes finegoldii		20261105-124632-add35472	COMPLETED	tar
+alistipes_onderdonkii	Alistipes onderdonkii		20261105-150555-ccd9ac54	COMPLETED	tar
+alistipes_putredinis	Alistipes putredinis		20261106-121428-c9a67e30	COMPLETED	tar
+alloiococcus_otitis	Alloiococcus otitis	耳炎异球菌	20261117-010544-aafb1677	COMPLETED	tar
+anaerobiospirillum_succiniciproducens	Anaerobiospirillum succiniciproducens	产琥珀酸厌氧螺菌	20261105-114743-5d15f309	COMPLETED	tar
+anaerobiospirillum_thomasii	Anaerobiospirillum thomasii	托马斯厌氧螺菌	20261105-122500-566488a2	COMPLETED	tar
+anaerobutyricum_hallii	Anaerobutyricum hallii		20261104-123040-e33644ae	COMPLETED	tar
+anaerococcus_prevotii	Anaerococcus prevotii		20261115-190819-521e8629	COMPLETED	tar
+anaerococcus_vaginalis	Anaerococcus vaginalis	阴道厌氧球菌	20261101-215340-391740f4	COMPLETED	tar
+anaerostipes_caccae	Anaerostipes caccae		20261104-194325-4ec34725	COMPLETED	tar
+anaerotruncus_colihominis	Anaerotruncus colihominis		20261105-075059-f1da304d	COMPLETED	tar
+anaplasma_phagocytophilum	Anaplasma phagocytophilum	嗜吞噬细胞无形体	20261105-171602-c02a454e	COMPLETED	tar
+arachnia_propionica	Arachnia propionica		20261105-201216-80c1f8df	COMPLETED	tar
+arcanobacterium_haemolyticum	Arcanobacterium haemolyticum	溶血隐秘杆菌	20261113-182513-5de80a87	COMPLETED	tar
+arcobacter_butzleri	Arcobacter butzleri	布氏弓形菌	20261027-145130-c9519d44	COMPLETED	tar
+arthrobacter_globiformis	Arthrobacter globiformis		20261106-030844-922474fa	COMPLETED	tar
+bacillus_anthracis	Bacillus anthracis	炭疽芽孢杆菌	20261013-105813-9e5bb641	COMPLETED	tar
+bacillus_cereus	Bacillus cereus	蜡样芽孢杆菌	20261114-164356-2dc41e4f	COMPLETED	tar
+bacillus_licheniformis	Bacillus licheniformis	地衣芽孢杆菌		COMPLETED	tar
+bacillus_pumilus	Bacillus pumilus	短小芽孢杆菌	20261027-120428-a51ae2d6	COMPLETED	tar
+bacillus_subtilis	Bacillus subtilis	枯草芽孢杆菌	20261023-192518-3d26584e	COMPLETED	tar
+bacillus_thuringiensis	Bacillus thuringiensis	苏云金芽孢杆菌	20261022-202731-2d4bb8bf	COMPLETED	tar
+bacteroides_caccae	Bacteroides caccae	粪拟杆菌	20261104-081603-cba423a9	COMPLETED	tar
+bacteroides_distasonis	Bacteroides thetaiotaomicron		20261115-094455-adc7a7ec	COMPLETED	tar
+bacteroides_eggerthii	Bacteroides eggerthii	埃氏拟杆菌	20261104-114821-c79a54e1	COMPLETED	tar
+bacteroides_fragilis	Bacteroides fragilis	脆弱拟杆菌	20261106-132347-bb1219ae	COMPLETED	tar
+bacteroides_fragilis_etbf	Bacteroides fragilis	脆弱拟杆菌	20261020-152722-de17c464	COMPLETED	tar
+bacteroides_ovatus	Bacteroides ovatus	卵形拟杆菌	20261107-165046-d62fffaf	COMPLETED	tar
+bacteroides_pyogenes	Bacteroides pyogenes		20261105-112428-0d42b9ae	COMPLETED	tar
+bacteroides_stercoris	Bacteroides stercoris	粪臭拟杆菌	20261104-133401-05e93836	COMPLETED	tar
+bacteroides_thetaiotaomicron	Bacteroides thetaiotaomicron	多形拟杆菌		COMPLETED	tar
+bacteroides_uniformis	Bacteroides uniformis	单形拟杆菌	20261031-132110-b71267b4	COMPLETED	tar
+bacteroides_vulgatus	Bacteroides vulgatus	普通拟杆菌	20261028-121109-4d59781e	COMPLETED	tar
+bacteroides_vulgatus_2	Bacteroides vulgatus		20261106-141617-4c9c0f96	COMPLETED	tar
+bartonella_bacilliformis	Bartonella bacilliformis	杆菌状巴尔通体	20261025-210128-e3139df4	COMPLETED	tar
+bartonella_henselae	Bartonella henselae		20261116-111228-2172e5ec	COMPLETED	tar
+bartonella_quintana	Bartonella quintana	五日热巴尔通体	20261025-194736-714d2e14	COMPLETED	tar
+bergeyella_zoohelcum	Bergeyella zoohelcum	动物溃疡伯杰菌	20261102-145910-e04f37ee	COMPLETED	tar
+bifidobacterium_breve	Bifidobacterium breve		20261105-224501-0e6fa179	COMPLETED	tar
+bifidobacterium_dentium	Bifidobacterium dentium	齿双歧杆菌	20261106-113402-ac3c07fd	COMPLETED	tar
+bifidobacterium_longum	Bifidobacterium longum		20261106-002545-ac07f225	COMPLETED	tar
+bifidobacterium_spp	Bifidobacterium adolescentis		20261114-130043-de368c77	COMPLETED	tar
+bilophila_wadsworthia	Bilophila wadsworthia		20261106-234554-ec643a5f	COMPLETED	tar
+blautia_hydrogenotrophica	Blautia hydrogenotrophica		20261104-080156-2d93d0f6	COMPLETED	tar
+blautia_producta	Blautia producta		20261104-060733-6b0d0446	COMPLETED	tar
+bordetella_avium	Bordetella avium	禽鲍特菌	20261103-190531-d57b0f07	COMPLETED	tar
+bordetella_bronchiseptica	Bordetella bronchiseptica	支气管败血鲍特菌	20261025-214147-bf78f3fd	COMPLETED	tar
+bordetella_bronchiseptica_2	Bordetella bronchiseptica		20261104-190855-55a081e4	COMPLETED	tar
+bordetella_hinzii	Bordetella hinzii	欣氏鲍特菌	20261103-031652-9bb86ba6	COMPLETED	tar
+bordetella_holmesii	Bordetella holmesii	霍氏鲍特菌	20261029-091714-0dcef9a3	COMPLETED	tar
+bordetella_parapertussis	Bordetella parapertussis		20261114-050847-a289c1b9	COMPLETED	tar
+bordetella_pertussis	Bordetella pertussis	百日咳鲍特菌	20261016-233028-2ae55b24	COMPLETED	tar
+bordetella_trematum	Bordetella trematum	创口鲍特菌	20261103-131723-b5aebcbf	COMPLETED	tar
+borrelia_afzelii	Borrelia afzelii	阿氏疏螺旋体	20261021-041734-8f4ba728	COMPLETED	tar
+borrelia_burgdorferi	Borrelia burgdorferi	伯氏疏螺旋体	20261019-113521-0ef314a4	COMPLETED	tar
+borrelia_garinii	Borrelia garinii	伽氏疏螺旋体	20261021-041042-41ef5243	COMPLETED	tar
+borrelia_hermsii	Borrelia hermsii	赫氏疏螺旋体	20261116-213007-fd49003a	COMPLETED	tar
+borrelia_recurrentis	Borrelia recurrentis	回归热疏螺旋体	20261021-044213-b96e579b	COMPLETED	tar
+brachyspira_aalborgi	Brachyspira aalborgi	奥尔堡短螺旋体	20261105-072228-0d751f1a	COMPLETED	tar
+brachyspira_pilosicoli	Brachyspira pilosicoli	结肠菌毛短螺旋体	20261105-044939-f9b2b92a	COMPLETED	tar
+brevibacterium_casei	Brevibacterium casei		20261103-155637-284d3a69	COMPLETED	tar
+brevundimonas_diminuta	Brevundimonas diminuta	缺陷短波单胞菌	20261102-132514-7026efdb	COMPLETED	tar
+brevundimonas_vesicularis	Brevundimonas vesicularis	泡囊短波单胞菌	20261114-154323-0c89a4f8	COMPLETED	tar
+brucella_abortus	Brucella abortus		20261114-062655-c3294266	COMPLETED	tar
+brucella_canis	Brucella canis	犬种布鲁菌	20261025-143124-1bb6f279	COMPLETED	tar
+brucella_intermedia	Brucella intermedia		20261114-141535-65f0ca91	COMPLETED	tar
+brucella_melitensis	Brucella melitensis	羊种布鲁菌	20261106-163012-b05d542b	COMPLETED	tar
+brucella_spp	Brucella ovis		20261114-200439-bf2496cc	COMPLETED	tar
+brucella_suis	Brucella suis		20261030-220836-26fee159	COMPLETED	tar
+budvicia_aquatica	Budvicia aquatica		20261107-065942-dd3297c8	COMPLETED	tar
+burkholderia_cepacia_complex	Burkholderia cepacia		20261113-234514-0916e27b	COMPLETED	tar
+burkholderia_gladioli	Burkholderia gladioli	唐菖蒲伯克霍尔德菌	20261116-235455-9ef78e01	COMPLETED	tar
+burkholderia_mallei	Burkholderia mallei	鼻疽伯克霍尔德菌	20261020-213628-f7f7a2b8	COMPLETED	tar
+burkholderia_multivorans	Burkholderia multivorans		20261102-094926-c99b3e69	COMPLETED	tar
+burkholderia_pseudomallei	Burkholderia pseudomallei	类鼻疽伯克霍尔德菌	20261016-013318-388ba609	COMPLETED	tar
+burkholderia_stabilis	Burkholderia stabilis		20261102-110404-8a805448	COMPLETED	tar
+burkholderia_thailandensis	Burkholderia thailandensis		20261102-064550-c6dacbc6	COMPLETED	tar
+burkholderia_vietnamiensis	Burkholderia vietnamiensis		20261102-064559-b18e8597	COMPLETED	tar
+buttiauxella_agrestis	Buttiauxella agrestis		20261107-024922-b4cfedf0	COMPLETED	tar
+campylobacter_coli	Campylobacter coli		20261116-210457-7ee36d05	COMPLETED	tar
+campylobacter_concisus	Campylobacter concisus	简明弯曲菌	20261029-054814-056c35b4	COMPLETED	tar
+campylobacter_curvus	Campylobacter curvus	弯曲弯曲菌	20261104-210918-1d85ecf3	COMPLETED	tar
+campylobacter_fetus	Campylobacter fetus		20261116-185111-fccccf4b	COMPLETED	tar
+campylobacter_gracilis	Campylobacter gracilis	纤细弯曲菌	20261105-143407-95fa6788	COMPLETED	tar
+campylobacter_jejuni	Campylobacter jejuni	空肠弯曲菌	20261021-012310-962890bf	COMPLETED	tar
+campylobacter_jejuni_2	Campylobacter jejuni		20261020-170514-ed6e52e1	COMPLETED	tar
+campylobacter_lari	Campylobacter lari		20261116-221345-18d018e2	COMPLETED	tar
+campylobacter_rectus	Campylobacter rectus	直肠弯曲菌	20261105-220049-10dcf96f	COMPLETED	tar
+campylobacter_showae	Campylobacter showae	肖氏弯曲菌	20261105-125639-9955c501	COMPLETED	tar
+campylobacter_upsaliensis	Campylobacter upsaliensis		20261116-225750-f7505153	COMPLETED	tar
+capnocytophaga_canimorsus	Capnocytophaga canimorsus		20261030-190123-dee6a373	COMPLETED	tar
+capnocytophaga_gingivalis	Capnocytophaga gingivalis		20261116-013231-7cff0b59	COMPLETED	tar
+capnocytophaga_ochracea	Capnocytophaga ochracea	赭色二氧化碳嗜纤维菌	20261026-210430-ca5bf0f5	COMPLETED	tar
+cardiobacterium_hominis	Cardiobacterium hominis		20261116-064116-084635f1	COMPLETED	tar
+catonella_morbi	Catonella morbi		20261107-175113-84d357a6	COMPLETED	tar
+cedecea_davisae	Cedecea davisae	戴维斯西地西菌	20261105-060531-11160090	COMPLETED	tar
+cellulomonas_flavigena	Cellulomonas flavigena		20261105-231720-253088bf	COMPLETED	tar
+cellulosimicrobium_cellulans	Cellulosimicrobium cellulans		20261103-130801-6d5bb3be	COMPLETED	tar
+centipeda_noxia	Centipeda noxia		20261107-214451-b0c284b9	COMPLETED	tar
+centipeda_periodontii	Centipeda periodontii	牙周蜈蚣菌	20261104-211841-52e05172	COMPLETED	tar
+chlamydia_trachomatis	Chlamydia trachomatis	沙眼衣原体	20261115-001205-df884891	COMPLETED	tar
+chlamydophila_pneumoniae	Chlamydophila pneumoniae		20261116-122315-8d8a4f48	COMPLETED	tar
+chlamydophila_psittaci	Chlamydophila psittaci	鹦鹉热衣原体	20261023-124715-98629907	COMPLETED	tar
+chlamydophila_psittaci_2	Chlamydophila psittaci		20261104-224331-154a0984	COMPLETED	tar
+chromobacterium_violaceum	Chromobacterium violaceum		20261116-020259-31321f52	COMPLETED	tar
+chryseobacterium_gleum	Chryseobacterium gleum	黏金黄杆菌	20261028-193420-8be87347	COMPLETED	tar
+chryseobacterium_indologenes	Chryseobacterium indologenes	产吲哚金黄杆菌	20261116-135423-cfa20bce	COMPLETED	tar
+citrobacter_amalonaticus	Citrobacter amalonaticus	无丙二酸枸橼酸杆菌	20261025-142103-3204cd76	COMPLETED	tar
+citrobacter_braakii	Citrobacter braakii	布氏枸橼酸杆菌	20261103-125156-4600b9ee	COMPLETED	tar
+citrobacter_freundii	Citrobacter freundii	弗氏枸橼酸杆菌	20261019-194548-6a3be23c	COMPLETED	tar
+citrobacter_koseri	Citrobacter koseri	克氏枸橼酸杆菌	20261019-220240-1b1cb464	COMPLETED	tar
+citrobacter_youngae	Citrobacter youngae		20261116-124906-9c3b7593	COMPLETED	tar
+clostridioides_difficile	Clostridioides Difficile	艰难梭菌	20261116-165755-41ec9f79	COMPLETED	tar
+clostridioides_difficile_2	Clostridioides difficile		20261019-185655-b1972bfc	COMPLETED	tar
+clostridium_botulinum	Clostridium botulinum	肉毒梭菌	20261021-052727-89c3eb23	COMPLETED	tar
+clostridium_butyricum	Clostridium butyricum		20261103-211008-6f6f2766	COMPLETED	tar
+clostridium_clostridioforme	Clostridium clostridioforme		20261104-080601-762e4834	COMPLETED	tar
+clostridium_histolyticum	Clostridium cadaveris		20261115-004105-6a1b1614	COMPLETED	tar
+clostridium_innocuum	Clostridium innocuum		20261105-155423-7058af8f	COMPLETED	tar
+clostridium_novyi	Clostridium novyi	诺维梭菌	20261022-183325-1ec03532	COMPLETED	tar
+clostridium_perfringens	Clostridium perfringens	产气荚膜梭菌	20261021-074524-2d575a8a	COMPLETED	tar
+clostridium_ramosum	Clostridium ramosum	多枝梭菌	20261030-001452-9bab56cf	COMPLETED	tar
+clostridium_ramosum_2	Clostridium ramosum (肠道)	多枝梭菌(肠道)	20261104-212014-fe4b00b6	COMPLETED	tar
+clostridium_septicum	Clostridium septicum		20261114-011440-df4737cb	COMPLETED	tar
+clostridium_sporogenes	Clostridium sporogenes	产孢梭菌	20261103-161041-76663c35	COMPLETED	tar
+clostridium_symbiosum	Clostridium symbiosum		20261104-070042-601966ee	COMPLETED	tar
+clostridium_tertium	Clostridium tertium		20261114-135244-7286ab65	COMPLETED	tar
+clostridium_tetani	Clostridium tetani	破伤风梭菌	20261021-053838-a4826714	COMPLETED	tar
+collinsella_aerofaciens	Collinsella aerofaciens	产气柯林斯菌	20261102-063056-af72a946	COMPLETED	tar
+comamonas_testosteroni	Comamonas testosteroni	睾丸酮丛毛单胞菌	20261029-171004-6b8aa9e3	COMPLETED	tar
+corynebacterium_accolens	Corynebacterium accolens		20261103-075912-f5b14967	COMPLETED	tar
+corynebacterium_amycolatum	Corynebacterium amycolatum	无枝菌酸棒杆菌	20261113-153422-d0925fa9	COMPLETED	tar
+corynebacterium_aurimucosum	Corynebacterium aurimucosum		20261103-081216-51cd333e	COMPLETED	tar
+corynebacterium_diphtheriae	Corynebacterium diphtheriae	白喉棒杆菌	20261021-084442-71fdafa8	COMPLETED	tar
+corynebacterium_glucuronolyticum	Corynebacterium glucuronolyticum		20261103-124759-804ab426	COMPLETED	tar
+corynebacterium_jeikeium	Corynebacterium jeikeium	杰氏棒杆菌	20261021-012923-69b229eb	COMPLETED	tar
+corynebacterium_kroppenstedtii	Corynebacterium kroppenstedtii	克氏棒杆菌	20261113-164009-ada69e56	COMPLETED	tar
+corynebacterium_macginleyi	Corynebacterium macginleyi		20261102-234955-cc2dd02d	COMPLETED	tar
+corynebacterium_matruchotii	Corynebacterium matruchotii		20261105-070743-dc11cfe2	COMPLETED	tar
+corynebacterium_minutissimum	Corynebacterium minutissimum	微小棒杆菌	20261113-153440-1ef66f69	COMPLETED	tar
+corynebacterium_otitidis	Corynebacterium otitidis		20261106-062046-7be314c3	COMPLETED	tar
+corynebacterium_propinquum	Corynebacterium propinquum		20261103-014010-c98f6d7a	COMPLETED	tar
+corynebacterium_pseudodiphtheriticum	Corynebacterium pseudodiphtheriticum		20261103-034421-6bd22236	COMPLETED	tar
+corynebacterium_pseudotuberculosis	Corynebacterium pseudotuberculosis	假结核棒杆菌	20261113-163107-378bfc18	COMPLETED	tar
+corynebacterium_riegelii	Corynebacterium riegelii		20261103-130616-4ae7e02b	COMPLETED	tar
+corynebacterium_striatum	Corynebacterium striatum		20261114-055416-f5464944	COMPLETED	tar
+corynebacterium_tuberculostearicum	Corynebacterium tuberculostearicum		20261103-065038-887fd8cf	COMPLETED	tar
+corynebacterium_ulcerans_2	Corynebacterium ulcerans	溃疡棒杆菌(牛源)	20261114-101723-a6e13d8b	COMPLETED	tar
+corynebacterium_urealyticum	Corynebacterium urealyticum	解脲棒杆菌	20261022-212117-b566eb91	COMPLETED	tar
+coxiella_burnetii_2	Coxiella burnetii	贝氏柯克斯体(乳源)	20261023-092651-98a9605a	COMPLETED	tar
+cronobacter_sakazakii	Cronobacter sakazakii	阪崎克罗诺杆菌	20261021-010847-6008e85a	COMPLETED	tar
+cupriavidus_pauculus	Cupriavidus pauculus		20261102-215004-ffdbbd8c	COMPLETED	tar
+cutibacterium_acnes	Cutibacterium acnes	痤疮丙酸杆菌	20261023-173220-a7fde409	COMPLETED	tar
+cutibacterium_avidum	Cutibacterium avidum	贪婪丙酸杆菌	20261107-114848-765982e6	COMPLETED	tar
+delftia_acidovorans	Delftia acidovorans	食酸代尔夫特菌	20261024-215421-6ad59eed	COMPLETED	tar
+dermabacter_hominis	Dermabacter hominis		20261103-145907-470f56ee	COMPLETED	tar
+desulfovibrio_desulfuricans	Desulfovibrio desulfuricans	脱硫脱硫弧菌	20261102-163603-7cd6058c	COMPLETED	tar
+desulfovibrio_fairfieldensis	Desulfovibrio fairfieldensis	费尔菲尔德脱硫弧菌	20261104-200815-5969ac3a	COMPLETED	tar
+desulfovibrio_piger	Desulfovibrio piger		20261106-061302-a64305a2	COMPLETED	tar
+dialister_invisus	Dialister invisus		20261107-145403-c8b50ff2	COMPLETED	tar
+dialister_pneumosintes	Dialister pneumosintes		20261114-145739-ad8a0675	COMPLETED	tar
+dolosigranulum_pigrum	Dolosigranulum pigrum	惰性微球菌	20261104-015011-cdc24780	COMPLETED	tar
+dorea_formicigenerans	Dorea formicigenerans		20261103-235600-f93e78ed	COMPLETED	tar
+dorea_longicatena	Dorea longicatena		20261104-015626-485ca9d0	COMPLETED	tar
+dysgonomonas_spp	Indolivaga capnocytophagoides		20261115-233801-36d8624d	COMPLETED	tar
+ectopseudomonas_oleovorans	Ectopseudomonas oleovorans		20261107-084742-433e14d0	COMPLETED	tar
+edwardsiella_tarda	Edwardsiella tarda	迟钝爱德华菌	20261025-145238-7e72c873	COMPLETED	tar
+eggerthella_lenta	Eggerthella lenta	迟缓埃格特菌	20261029-010228-ca2921d1	COMPLETED	tar
+ehrlichia_canis	Ehrlichia canis		20261105-064941-68cee83b	COMPLETED	tar
+ehrlichia_chaffeensis	Ehrlichia chaffeensis	查菲埃立克体	20261021-023712-2b691c85	COMPLETED	tar
+ehrlichia_ewingii	Ehrlichia ewingii	尤因埃立克体	20261028-154412-2aa4599c	COMPLETED	tar
+eikenella_corrodens	Eikenella corrodens		20261116-052839-970b581d	COMPLETED	tar
+eisenbergiella_tayi	Eisenbergiella tayi		20261104-103138-55ba3021	COMPLETED	tar
+elizabethkingia_anophelis	Elizabethkingia anophelis	按蚊伊丽莎白菌	20261115-204552-b2ddcb3c	COMPLETED	tar
+elizabethkingia_meningoseptica	Elizabethkingia meningoseptica	脑膜败血伊丽莎白菌	20261115-191951-ac64cb87	COMPLETED	tar
+elizabethkingia_miricola	Elizabethkingia miricola		20261115-063117-64559980	COMPLETED	tar
+empedobacter_brevis	Empedobacter brevis	短稳杆菌	20261115-110214-69c2d873	COMPLETED	tar
+enterobacter_aerogenes	Enterobacter aerogenes	产气肠杆菌	20261021-175021-e4d52d1a	COMPLETED	tar
+enterobacter_asburiae	Enterobacter asburiae		20261115-200157-ccdb8880	COMPLETED	tar
+enterobacter_cloacae	Enterobacter cloacae	阴沟肠杆菌	20261017-190331-f447e35b	COMPLETED	tar
+enterobacter_hormaechei	Enterobacter hormaechei	霍氏肠杆菌	20261029-131152-cc88c170	COMPLETED	tar
+enterobacter_kobei	Enterobacter kobei		20261116-091108-198b5045	COMPLETED	tar
+enterobacter_sakazakii	Enterobacter sakazakii	阪崎肠杆菌	20261021-211239-cfc65754	COMPLETED	tar
+enterocloster_bolteae	Enterocloster bolteae		20261104-120905-4a301913	COMPLETED	tar
+enterocloster_citroniae	Enterocloster citroniae		20261104-135002-3460d6d2	COMPLETED	tar
+enterocloster_clostridioformis	Enterocloster clostridioformis		20261104-133316-310f0f03	COMPLETED	tar
+enterococcus	Enterococcus		20261029-184441-80fd427e	COMPLETED	tar
+enterococcus_avium	Enterococcus avium	鸟肠球菌	20261117-010232-0478ca74	COMPLETED	tar
+enterococcus_casseliflavus	Enterococcus casseliflavus	铅黄肠球菌	20261117-012808-ee4768cc	COMPLETED	tar
+enterococcus_columbae	Enterococcus columbae	鸽肠球菌	20261104-055253-e260652d	COMPLETED	tar
+enterococcus_durans	Enterococcus durans	耐久肠球菌	20261031-123930-487e9838	COMPLETED	tar
+enterococcus_faecalis	Enterococcus faecalis	粪肠球菌	20261012-225218-7abbe043	ERROR	tar
+enterococcus_faecium	Enterococcus faecium	屎肠球菌	20261021-031205-6cd0b12b	COMPLETED	tar
+enterococcus_gallinarum	Enterococcus gallinarum	鹑鸡肠球菌	20261116-220456-f802d370	COMPLETED	tar
+enterococcus_hirae	Enterococcus hirae	海氏肠球菌	20261117-020056-16ebb60e	COMPLETED	tar
+enterococcus_mundtii	Enterococcus mundtii	蒙氏肠球菌	20261104-034708-82abb2e5	COMPLETED	tar
+enterococcus_raffinosus	Enterococcus raffinosus	棉子糖肠球菌	20261117-020820-9da4c1ee	COMPLETED	tar
+enterococcus_saccharolyticus	Enterococcus saccharolyticus	解糖肠球菌	20261104-065848-7dad17ae	COMPLETED	tar
+enterotoxigenic_b_fragilis_etbf	Bacteroides fragilis (strain YCH46)		20261114-094203-9e4a6bda	COMPLETED	tar
+erysipelothrix_rhusiopathiae	Erysipelothrix rhusiopathiae	猪红斑丹毒丝菌	20261113-192307-19607dd5	COMPLETED	tar
+escherichia_coli	Escherichia coli	大肠埃希菌	20261106-145223-8d65f700	COMPLETED	tar
+escherichia_coli_2	Escherichia coli O83:H1 (strain NRG 857C / AIEC)		20261113-205220-9f8cf9cb	COMPLETED	tar
+escherichia_coli_eaec	Escherichia coli (strain 55989 / EAEC)		20261115-220533-8473f2d4	COMPLETED	tar
+escherichia_coli_epec	Escherichia coli O127:H6 (strain E2348/69 / EPEC)		20261115-164829-2019db34	COMPLETED	tar
+escherichia_coli_etec	Escherichia coli O139:H28 (strain E24377A / ETEC)		20261115-152443-16421604	COMPLETED	tar
+escherichia_coli_o157_h7	Escherichia coli O157:H7	大肠埃希菌O157:H7	20261105-233443-5b3099a1	COMPLETED	tar
+escherichia_coli_o6_h1_strain_cft073_atcc_700928_upec	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)		20261106-021841-4e3fe1e6	COMPLETED	tar
+escherichia_coli_o78_h11_strain_h10407_etec	Escherichia coli O78:H11 (strain H10407 / ETEC)		20261106-010133-0312edca	COMPLETED	tar
+escherichia_coli_upec	Escherichia coli O6:H1 (strain CFT073 / ATCC 700928 / UPEC)		20261106-021841-4e3fe1e6	COMPLETED	tar
+ewingella_americana	Ewingella americana		20261101-153400-f05761c4	COMPLETED	tar
+exiguobacterium_sibiricum	Exiguobacterium sibiricum		20261106-044432-d5d11954	COMPLETED	tar
+facklamia_lactis	Facklamia lactis	乳法克拉米亚菌	20261106-135639-1740ef9a	COMPLETED	tar
+faecalibacterium_prausnitzii	Faecalibacterium prausnitzii		20261104-152700-f61e815b	COMPLETED	tar
+fannyhessea_vaginae	Fannyhessea vaginae	阴道奇异菌	20261105-151706-8b0e74d3	COMPLETED	tar
+faucicola_atlantae	Faucicola atlantae		20261103-012119-e63e4a00	COMPLETED	tar
+filifactor_alocis	Filifactor alocis		20261107-163310-a007f5c8	COMPLETED	tar
+finegoldia_magna	Finegoldia magna	大芬戈尔德菌	20261115-170648-c7565ed5	COMPLETED	tar
+flavonifractor_plautii	Flavonifractor plautii		20261104-230354-52b47bf9	COMPLETED	tar
+fluoribacter_dumoffii	Fluoribacter dumoffii	杜氏军团菌	20261105-000341-3faf2780	COMPLETED	tar
+fluoribacter_gormanii	Fluoribacter gormanii		20261113-231933-600e34f8	COMPLETED	tar
+francisella_novicida	Francisella novicida	新凶手弗朗西斯菌	20261103-221535-61d5e13b	COMPLETED	tar
+francisella_philomiragia	Francisella philomiragia	嗜鱼弗朗西斯菌	20261103-204035-4eec92ce	COMPLETED	tar
+francisella_tularensis	Francisella tularensis	土拉弗朗西斯菌	20261117-010246-7dc9d3a7	COMPLETED	tar
+fusobacterium_mortiferum	Fusobacterium mortiferum	死亡梭杆菌	20261027-144121-c599eb3f	COMPLETED	tar
+fusobacterium_necrophorum	Fusobacterium necrophorum		20261106-043332-f399eba9	COMPLETED	tar
+fusobacterium_nucleatum	Fusobacterium nucleatum	具核梭杆菌	20261116-172350-f142601c	COMPLETED	tar
+fusobacterium_nucleatum_2	Fusobacterium nucleatum		20261021-031304-8cd03e3b	COMPLETED	tar
+fusobacterium_periodonticum	Fusobacterium periodonticum		20261104-233449-20cafc3c	COMPLETED	tar
+fusobacterium_ulcerans	Fusobacterium ulcerans	溃疡梭杆菌	20261114-134537-16cffb2a	COMPLETED	tar
+fusobacterium_varium	Fusobacterium varium	变形梭杆菌	20261027-171423-ba0eb86c	COMPLETED	tar
+fusobacterium_varium_2	Fusobacterium varium		20261029-073159-03d4e180	COMPLETED	tar
+gardnerella_vaginalis	Gardnerella vaginalis		20261114-034436-f65ecf07	COMPLETED	tar
+gemella_haemolysans	Gemella haemolysans		20261104-063932-1765ff4e	COMPLETED	tar
+gemella_morbillorum	Gemella morbillorum		20261104-052530-8f851d65	COMPLETED	tar
+globicatella_sanguinis	Globicatella sulfidifaciens		20261114-011132-31245aa4	COMPLETED	tar
+gordonibacter_pamelaeae	Gordonibacter pamelaeae		20261105-062833-add7cf11	COMPLETED	tar
+granulicatella_adiacens	Granulicatella adiacens		20261104-030802-910513d2	COMPLETED	tar
+grimontia_hollisae	Grimontia hollisae		20261107-094402-45c509cf	COMPLETED	tar
+haemophilus_aphrophilus	Haemophilus aphrophilus	嗜沫嗜血杆菌	20261102-152439-89039dac	COMPLETED	tar
+haemophilus_ducreyi	Haemophilus ducreyi		20261114-022051-a28f2dd4	COMPLETED	tar
+haemophilus_influenzae	Haemophilus influenzae	流感嗜血杆菌	20261016-201427-af405b9e	COMPLETED	tar
+haemophilus_parainfluenzae	Haemophilus parainfluenzae	副流感嗜血杆菌	20261102-143129-2cf9573d	COMPLETED	tar
+hafnia_alvei	Hafnia alvei		20261116-053235-6e0169b2	COMPLETED	tar
+hafnia_paralvei	Hafnia paralvei		20261115-234346-83e7b0ba	COMPLETED	tar
+helcococcus_kunzii	Helcococcus kunzii	孔氏溃疡球菌	20261117-010609-2cb40da0	COMPLETED	tar
+helicobacter_cinaedi	Helicobacter cinaedi	同性恋螺杆菌	20261027-085839-e56ff4ad	COMPLETED	tar
+helicobacter_heilmannii	Helicobacter heilmannii	海尔曼螺杆菌	20261027-113609-d7eff810	COMPLETED	tar
+helicobacter_pylori	Helicobacter pylori		20261116-185045-c6a01a7d	COMPLETED	tar
+herbaspirillum_seropedicae	Herbaspirillum seropedicae		20261107-100137-6c156378	COMPLETED	tar
+hoylesella_loescheii	Hoylesella loescheii		20261107-170838-d15c567f	COMPLETED	tar
+hungatella_hathewayi	Hungatella hathewayi		20261104-152058-dd520008	COMPLETED	tar
+ignavigranum_ruoffiae	Ignavigranum ruoffiae	鲁氏惰性颗粒菌	20261104-160527-ab4d5d0a	COMPLETED	tar
+intestinibacter_bartlettii	Intestinibacter bartlettii		20261104-184001-50ed2c81	COMPLETED	tar
+johnsonella_ignava	Johnsonella ignava		20261107-195540-d425334f	COMPLETED	tar
+kingella_denitrificans	Kingella denitrificans	反硝化金氏菌	20261104-143319-eef8dbb3	COMPLETED	tar
+kingella_kingae	Kingella kingae		20261116-211545-0e5d3c68	COMPLETED	tar
+kingella_oralis	Kingella oralis	口腔金氏菌	20261103-134100-2de2a355	COMPLETED	tar
+klebsiella_aerogenes	Klebsiella aerogenes	产气克雷伯菌	20261021-130015-ff4b2630	COMPLETED	tar
+klebsiella_granulomatis	Klebsiella variicola		20261115-132526-af493ab6	COMPLETED	tar
+klebsiella_michiganensis	Klebsiella michiganensis		20261115-180516-60e5c898	COMPLETED	tar
+klebsiella_oxytoca	Klebsiella oxytoca	产酸克雷伯菌	20261021-103139-f9f68e27	COMPLETED	tar
+klebsiella_oxytoca_2	Klebsiella oxytoca		20261029-212124-17da0276	COMPLETED	tar
+klebsiella_ozaenae	Klebsiella pneumoniae subsp. ozaenae		20261114-231541-dea7486c	COMPLETED	tar
+klebsiella_pneumoniae	Klebsiella pneumoniae	肺炎克雷伯菌	20261017-205117-faee628a	COMPLETED	tar
+klebsiella_pneumoniae_2	Klebsiella pneumoniae		20261106-102544-08bf4784	COMPLETED	tar
+klebsiella_rhinoscleromatis	Klebsiella pneumoniae subsp. rhinoscleromatis		20261115-044442-23895ae5	COMPLETED	tar
+klebsiella_variicola	Klebsiella variicola		20261115-014914-a4974dfa	COMPLETED	tar
+kluyvera_ascorbata	Kluyvera ascorbata	抗坏血酸克吕沃菌	20261105-092634-b850fd40	COMPLETED	tar
+kocuria_rosea	Kocuria rosea		20261103-180251-3f62e94f	COMPLETED	tar
+lactobacillus	Lactobacillus		20261113-200452-3875c2ff	COMPLETED	tar
+lactococcus_garvieae	Lactococcus garvieae	格氏乳球菌	20261104-172232-c3384953	COMPLETED	tar
+lactococcus_lactis	Lactococcus lactis	乳酸乳球菌	20261104-172256-832a61aa	COMPLETED	tar
+lawsonia_intracellularis	Lawsonia intracellularis	胞内劳森菌	20261105-024148-c4cd6f67	COMPLETED	tar
+leclercia_adecarboxylata	Leclercia adecarboxylata	非脱羧勒克菌	20261027-005033-3d749e56	COMPLETED	tar
+legionella_anisa	Legionella anisa	茴香军团菌	20261104-142653-ea2806a8	COMPLETED	tar
+legionella_bozemanae	Legionella bozemanae	博氏军团菌	20261105-000303-e5f0bf17	COMPLETED	tar
+legionella_feeleii	Legionella feeleii	菲利军团菌	20261102-203913-042ec53b	COMPLETED	tar
+legionella_jordanis	Legionella jordanis	约旦军团菌	20261103-153213-8c32cd64	COMPLETED	tar
+legionella_longbeachae	Legionella longbeachae	长滩军团菌	20261025-194642-495a6e1f	COMPLETED	tar
+legionella_micdadei	Legionella micdadei	麦氏军团菌	20261025-160810-66b9357e	COMPLETED	tar
+legionella_pneumophila	Legionella pneumophila	嗜肺军团菌	20261019-143532-374e8fd1	COMPLETED	tar
+leminorella_richardii	Leminorella richardii		20261106-222152-99c2f261	COMPLETED	tar
+leptospira_biflexa	Leptospira biflexa	双曲钩端螺旋体		COMPLETED	tar
+leptospira_borgpetersenii	Leptospira borgpetersenii		20261105-020830-d88afa2a	COMPLETED	tar
+leptospira_interrogans	Leptospira interrogans	问号钩端螺旋体	20261016-173239-b0bb138e	COMPLETED	tar
+leptospira_interrogans_2	Leptospira interrogans		20261016-210355-b44b1a66	COMPLETED	tar
+leptospira_kirschneri	Leptospira kirschneri		20261105-035133-37606c61	COMPLETED	tar
+leptotrichia_buccalis	Leptotrichia buccalis		20261115-123615-07b593cb	COMPLETED	tar
+leuconostoc_mesenteroides	Leuconostoc mesenteroides	肠膜明串珠菌	20261106-111704-2d5a246c	COMPLETED	tar
+listeria_innocua	Listeria innocua		20261115-094624-38ff90e3	COMPLETED	tar
+listeria_monocytogenes	Listeria monocytogenes	单核细胞增生李斯特菌	20261014-181802-2a320250	COMPLETED	tar
+lwoffella_lincolnii	Lwoffella lincolnii		20261103-042554-2258ef34	COMPLETED	tar
+mediterraneibacter_gnavus	Mediterraneibacter gnavus		20261117-010831-275adf79	COMPLETED	tar
+megasphaera_elsdenii	Megasphaera elsdenii	埃氏巨球型菌	20261105-121904-ae4e217c	COMPLETED	tar
+methylobacterium_nonmethylotrophicum	Methylobacterium nonmethylotrophicum	非甲基营养甲基杆菌	20261106-163426-26853e7c	COMPLETED	tar
+microbacterium_testaceum	Microbacterium testaceum		20261106-010216-c7380f68	COMPLETED	tar
+micrococcus_luteus	Micrococcus luteus		20261103-180504-5b31530b	COMPLETED	tar
+mobiluncus_curtisii	Mobiluncus curtisii	柯氏动弯杆菌	20261102-001919-ab0bbd4d	COMPLETED	tar
+moellerella_wisconsensis	Moellerella wisconsensis		20261101-142310-6081bfbf	COMPLETED	tar
+moraxella_catarrhalis	Moraxella catarrhalis	卡他莫拉菌	20261021-205855-77c8c401	COMPLETED	tar
+moraxella_lacunata	Moraxella lacunata	腔隙莫拉菌	20261114-101923-b17d8cf9	COMPLETED	tar
+moraxella_nonliquefaciens	Moraxella nonliquefaciens	不液化莫拉菌	20261114-140904-f58d48a1	COMPLETED	tar
+moraxella_osloensis	Moraxella osloensis	奥斯陆莫拉菌	20261114-144725-ac19e1b2	COMPLETED	tar
+morganella_morganii	Morganella morganii	摩氏摩根菌	20261024-155310-237bc928	COMPLETED	tar
+mycobacterium_abscessus	Mycobacterium abscessus	脓肿分枝杆菌	20261021-133414-15276788	COMPLETED	tar
+mycobacterium_avium	Mycobacterium avium	鸟分枝杆菌	20261106-164642-8c5e946a	COMPLETED	tar
+mycobacterium_avium_complex	Mycobacterium avium		20261114-073857-ddd88e28	COMPLETED	tar
+mycobacterium_bovis	Mycobacterium bovis	牛分枝杆菌	20261106-181745-cf0f9312	COMPLETED	tar
+mycobacterium_bovis_2	Mycobacterium bovis		20261021-201147-4e99d4b9	COMPLETED	tar
+mycobacterium_chelonae	Mycobacterium chelonae	龟分枝杆菌	20261116-235031-45896a4b	COMPLETED	tar
+mycobacterium_chimaera	Mycobacterium marseillense		20261116-091639-0c89eaf3	COMPLETED	tar
+mycobacterium_fortuitum	Mycobacterium fortuitum	偶发分枝杆菌	20261116-232750-1037820d	COMPLETED	tar
+mycobacterium_gordonae	Mycobacterium gordonae	戈登分枝杆菌	20261023-223734-4dbb9f70	COMPLETED	tar
+mycobacterium_haemophilum	Mycobacterium haemophilum	嗜血分枝杆菌	20261024-143122-1f838bfe	COMPLETED	tar
+mycobacterium_intracellulare	Mycobacterium intracellulare	胞内分枝杆菌	20261021-160210-c4ad29c5	COMPLETED	tar
+mycobacterium_kansasii	Mycobacterium kansasii	堪萨斯分枝杆菌	20261021-113801-ac89b5be	COMPLETED	tar
+mycobacterium_leprae	Mycobacterium leprae	麻风分枝杆菌	20261021-073319-d8d88bc4	COMPLETED	tar
+mycobacterium_malmoense	Mycobacterium malmoense	玛尔摩分枝杆菌	20261026-210256-24eca0e6	COMPLETED	tar
+mycobacterium_marinum	Mycobacterium marinum	海分枝杆菌	20261105-112803-4aba7820	COMPLETED	tar
+mycobacterium_scrofulaceum	Mycobacterium scrofulaceum	瘰疬分枝杆菌	20261023-223653-1b895b48	COMPLETED	tar
+mycobacterium_simiae	Mycobacterium simiae	猿分枝杆菌	20261023-164958-c012206d	COMPLETED	tar
+mycobacterium_smegmatis	Mycobacterium smegmatis		20261115-040053-b4621890	COMPLETED	tar
+mycobacterium_szulgai	Mycobacterium szulgai	苏加分枝杆菌	20261026-174653-5a00149a	COMPLETED	tar
+mycobacterium_tuberculosis	Mycobacterium tuberculosis	结核分枝杆菌	20261015-170246-cc5491ec	COMPLETED	tar
+mycobacterium_ulcerans	Mycobacterium ulcerans	溃疡分枝杆菌	20261021-092931-8192cf35	COMPLETED	tar
+mycobacterium_xenopi	Mycobacterium xenopi	蟾蜍分枝杆菌	20261107-135307-c69e4c9a	COMPLETED	tar
+mycoplasma_fermentans	Mycoplasma fermentans	发酵支原体	20261028-211609-43833aed	COMPLETED	tar
+mycoplasma_genitalium	Mycoplasma genitalium	生殖支原体	20261021-024125-59b35762	COMPLETED	tar
+mycoplasma_hominis	Mycoplasma hominis	人型支原体	20261028-194959-116895fa	COMPLETED	tar
+mycoplasma_pneumoniae	Mycoplasma pneumoniae	肺炎支原体	20261019-160459-2c225772	COMPLETED	tar
+myroides_odoratimimus	Myroides odoratimimus	拟芳香黄杆菌	20261114-172013-25104f97	COMPLETED	tar
+myroides_odoratus	Myroides odoratus	芳香黄杆菌	20261114-171954-fda0cfd7	COMPLETED	tar
+naegleria_fowleri	Naegleria fowleri		20261106-212017-4f6ecd40	COMPLETED	tar
+neisseria_cinerea	Neisseria cinerea	灰色奈瑟菌	20261114-101717-3c20cc51	COMPLETED	tar
+neisseria_elongata	Neisseria elongata	延长奈瑟菌	20261103-122152-c0e0904a	COMPLETED	tar
+neisseria_gonorrhoeae	Neisseria gonorrhoeae	淋病奈瑟菌	20261016-132005-1d051514	COMPLETED	tar
+neisseria_lactamica	Neisseria lactamica	乳糖奈瑟菌	20261114-100545-31ffccba	COMPLETED	tar
+neisseria_meningitidis	Neisseria meningitidis	脑膜炎奈瑟菌	20261016-100846-5804a67c	COMPLETED	tar
+neisseria_mucosa	Neisseria mucosa	黏液奈瑟菌	20261103-111758-6117289e	COMPLETED	tar
+neisseria_sicca	Neisseria sicca		20261102-234415-1653d7f7	COMPLETED	tar
+neisseria_subflava	Neisseria subflava	微黄奈瑟菌	20261102-210411-00af3561	COMPLETED	tar
+neisseria_weaveri	Neisseria weaveri	韦弗奈瑟菌	20261103-131901-779dc6a1	COMPLETED	tar
+neorickettsia_sennetsu	Neorickettsia sennetsu	腺热新立克次体	20261028-184245-2c2a5002	COMPLETED	tar
+nocardia_asteroides	Nocardia asteroides	星形诺卡菌	20261021-161342-87720090	COMPLETED	tar
+nocardia_brasiliensis	Nocardia brasiliensis	巴西诺卡菌	20261024-231220-0803be56	COMPLETED	tar
+nocardia_farcinica	Nocardia farcinica	鼻疽诺卡菌	20261025-125253-ae221196	COMPLETED	tar
+nocardia_nova	Nocardia nova	新诺卡菌	20261025-131443-770c4ea7	COMPLETED	tar
+nocardia_otitidiscaviarum	Nocardia otitidiscaviarum	豚鼠耳炎诺卡菌	20261025-155755-f72e39be	COMPLETED	tar
+obesumbacterium_proteus	Obesumbacterium proteus		20261101-212556-20a11aa0	COMPLETED	tar
+ochrobactrum_anthropi	Ochrobactrum anthropi		20261102-214927-37b2216b	COMPLETED	tar
+odoribacter_splanchnicus	Odoribacter splanchnicus		20261105-182301-a345895a	COMPLETED	tar
+oerskovia_turbata	Oerskovia turbata		20261103-170901-70a5dd9e	COMPLETED	tar
+oligella_ureolytica	Oligella ureolytica	解脲寡源杆菌	20261102-212217-0c4f6f39	COMPLETED	tar
+oligella_urethralis	Oligella urethralis	尿道寡源杆菌	20261102-181533-19104985	COMPLETED	tar
+orientia_tsutsugamushi	Orientia tsutsugamushi	恙虫病东方体	20261116-185626-54a03c7f	COMPLETED	tar
+oscillibacter_valericigenes	Oscillibacter valericigenes		20261101-121513-efd71c2d	COMPLETED	tar
+paenibacillus_spp	Paenibacillus polymyxa		20261114-113229-092ab37e	COMPLETED	tar
+pandoraea_norimbergensis	Pandoraea norimbergensis		20261102-141123-1ab129b5	COMPLETED	tar
+pantoea_agglomerans	Pantoea agglomerans	成团泛菌	20261026-215622-eb206c22	COMPLETED	tar
+parabacteroides_distasonis	Parabacteroides distasonis		20261114-070308-ced16859	COMPLETED	tar
+parabacteroides_goldsteinii	Parabacteroides goldsteinii		20261104-015642-7a725356	COMPLETED	tar
+parabacteroides_merdae	Parabacteroides merdae		20261103-234059-3882c0b1	COMPLETED	tar
+paraclostridium_sordellii	Paraclostridium sordellii	索氏梭菌	20261105-022627-8ce9ee56	COMPLETED	tar
+parasutterella_excrementihominis	Parasutterella excrementihominis	人粪副萨特菌	20261105-004323-fd306eab	COMPLETED	tar
+parvimonas_micra	Parvimonas micra	微小微单胞菌	20261105-104228-26a05fe0	COMPLETED	tar
+parvimonas_micra_2	Parvimonas micra	微小微单胞菌	20261106-125939-f8a6ea00	COMPLETED	tar
+pasteurella_canis	Pasteurella canis	犬巴斯德菌	20261029-091852-6a290959	COMPLETED	tar
+pasteurella_dagmatis	Pasteurella dagmatis	达氏巴斯德菌	20261029-140147-3619c4a2	COMPLETED	tar
+pasteurella_multocida	Pasteurella multocida	多杀巴斯德菌	20261026-210206-9788d340	COMPLETED	tar
+pediococcus_stilesii	Pediococcus stilesii	斯氏片球菌	20261106-145529-bb99a15d	COMPLETED	tar
+peptoniphilus_asaccharolyticus	Peptoniphilus asaccharolyticus	不解糖嗜胨菌	20261028-005438-85a19ada	COMPLETED	tar
+peptostreptococcus_anaerobius	Peptostreptococcus anaerobius		20261115-122000-8842d0c0	COMPLETED	tar
+peptostreptococcus_stomatis	Peptostreptococcus stomatis		20261029-103606-4f2a3599	COMPLETED	tar
+phascolarctobacterium_succinatutens	Phascolarctobacterium succinatutens	产琥珀酸考拉杆菌	20261105-190059-6efc792e	COMPLETED	tar
+phocaeicola_dorei	Phocaeicola dorei		20261114-040904-1c79c77d	COMPLETED	tar
+photobacterium_damselae	Photobacterium damselae	美人鱼发光杆菌	20261107-021311-15344ad4	COMPLETED	tar
+plesiomonas_shigelloides	Plesiomonas shigelloides	类志贺邻单胞菌	20261027-001540-faff3339	COMPLETED	tar
+porphyromonas_asaccharolytica	Porphyromonas asaccharolytica	不解糖卟啉单胞菌	20261031-213238-13884aff	COMPLETED	tar
+porphyromonas_endodontalis	Porphyromonas endodontalis	牙髓卟啉单胞菌	20261031-213300-214a6453	COMPLETED	tar
+porphyromonas_gingivalis	Porphyromonas gingivalis	牙龈卟啉单胞菌	20261020-214441-dbf05aaa	COMPLETED	tar
+pragia_fontium	Pragia fontium		20261106-184922-ef8f2079	COMPLETED	tar
+prescottella_equi	Prescottella equi	马红球菌	20261105-035744-5d2c6c64	COMPLETED	tar
+prevotella_bivia	Prevotella bivia		20261115-042242-9980ed02	COMPLETED	tar
+prevotella_denticola	Prevotella denticola	栖牙普雷沃菌	20261031-180226-526ac33f	COMPLETED	tar
+prevotella_disiens	Prevotella disiens	解糖普雷沃菌	20261031-153318-ec850a8d	COMPLETED	tar
+prevotella_heparinolytica	Prevotella heparinolytica		20261105-023600-6d42c820	COMPLETED	tar
+prevotella_intermedia	Prevotella intermedia	中间普雷沃菌	20261031-151642-9caad45f	COMPLETED	tar
+prevotella_melaninogenica	Prevotella melaninogenica	产黑普雷沃菌	20261114-133506-86e98395	COMPLETED	tar
+prevotella_nigrescens	Prevotella nigrescens		20261114-103034-c34c6a99	COMPLETED	tar
+proteus_mirabilis	Proteus mirabilis	奇异变形杆菌	20261102-225234-febc94a6	COMPLETED	tar
+proteus_mirabilis_2	Proteus mirabilis		20261102-225234-febc94a6	COMPLETED	tar
+proteus_penneri	Proteus penneri	彭氏变形杆菌	20261103-074547-a2a13974	COMPLETED	tar
+proteus_vulgaris	Proteus vulgaris	普通变形杆菌	20261024-112640-4058f756	COMPLETED	tar
+providencia_alcalifaciens	Providencia alcalifaciens	产碱普罗威登斯菌	20261103-125122-1ba68993	COMPLETED	tar
+providencia_rettgeri	Providencia rettgeri	雷氏普罗威登斯菌	20261031-212349-614e54c9	COMPLETED	tar
+providencia_stuartii	Providencia stuartii	斯氏普罗威登斯菌	20261027-120048-5079c6e6	COMPLETED	tar
+pseudoflavonifractor_capillosus	Pseudoflavonifractor capillosus		20261105-014613-802f576c	COMPLETED	tar
+pseudomonas_aeruginosa	Pseudomonas aeruginosa	铜绿假单胞菌	20261010-230302-9671fe9d	COMPLETED	tar
+pseudomonas_aeruginosa_2	Pseudomonas aeruginosa		20261106-204200-4e224996	COMPLETED	tar
+pseudomonas_alcaligenes	Pseudomonas alcaligenes		20261107-005042-95aa0366	COMPLETED	tar
+pseudomonas_fluorescens	Pseudomonas fluorescens	荧光假单胞菌	20261113-204515-58b1f3c9	COMPLETED	tar
+pseudomonas_luteola	Pseudomonas luteola	浅黄假单胞菌	20261114-061858-14197a29	COMPLETED	tar
+pseudomonas_mendocina	Pseudomonas mendocina		20261107-042043-67e0a755	COMPLETED	tar
+pseudomonas_oryzihabitans	Pseudomonas oryzihabitans	栖稻假单胞菌	20261114-024139-18bdbe13	COMPLETED	tar
+pseudomonas_putida	Pseudomonas putida	恶臭假单胞菌	20261113-224439-747e0cb9	COMPLETED	tar
+pseudomonas_stutzeri	Pseudomonas stutzeri	施氏假单胞菌	20261114-012243-04b822a7	COMPLETED	tar
+rahnella_aquatilis	Rahnella aquatilis	水生拉恩菌	20261027-124804-9bf8dc7c	COMPLETED	tar
+ralstonia_insidiosa	Ralstonia insidiosa		20261102-163631-fa9dc9a8	COMPLETED	tar
+ralstonia_mannitolilytica	Ralstonia mannitolilytica		20261102-165415-16ff249e	COMPLETED	tar
+ralstonia_pickettii	Ralstonia pickettii	皮氏罗尔斯顿菌	20261025-140156-d808726b	COMPLETED	tar
+raoultella_ornithinolytica	Raoultella ornithinolytica	解鸟氨酸拉乌尔菌	20261113-173113-6125c475	COMPLETED	tar
+raoultella_planticola	Raoultella planticola	植生拉乌尔菌	20261027-210728-2179b3e7	COMPLETED	tar
+raoultella_terrigena	Raoultella terrigena		20261116-013723-b6c72265	COMPLETED	tar
+rhizobium_radiobacter	Agrobacterium radiobacter		20261116-001301-bc56e588	COMPLETED	tar
+rhodococcus_erythropolis	Rhodococcus erythropolis		20261115-075045-39109481	COMPLETED	tar
+rhodococcus_hoagii	Rhodococcus hoagii	霍氏红球菌	20261116-164113-4a868e05	COMPLETED	tar
+rickettsia_africae	Rickettsia africae	非洲立克次体	20261027-072239-7f9bb202	COMPLETED	tar
+rickettsia_akari	Rickettsia akari	螨立克次体	20261026-211913-89a7f808	COMPLETED	tar
+rickettsia_conorii	Rickettsia conorii	康氏立克次体	20261021-014107-bc404a5d	COMPLETED	tar
+rickettsia_felis	Rickettsia felis		20261105-085910-b969b5e5	COMPLETED	tar
+rickettsia_parkeri	Rickettsia parkeri		20261105-103357-e35c304b	COMPLETED	tar
+rickettsia_prowazekii	Rickettsia prowazekii	普氏立克次体	20261017-151614-ca0a9d2a	COMPLETED	tar
+rickettsia_rickettsii	Rickettsia rickettsii	立氏立克次体	20261017-125601-d4d86c23	COMPLETED	tar
+rickettsia_sibirica	Rickettsia sibirica	西伯利亚立克次体	20261027-072326-49e26b11	COMPLETED	tar
+rickettsia_typhi	Rickettsia typhi	斑疹伤寒立克次体	20261020-173140-48ef8bdd	COMPLETED	tar
+roseburia_intestinalis	Roseburia intestinalis		20261104-172428-5aca7c56	COMPLETED	tar
+roseomonas_mucosa	Roseomonas mucosa	黏膜玫瑰单胞菌	20261106-110047-518ed52c	COMPLETED	tar
+rothia_dentocariosa	Rothia dentocariosa		20261103-202039-6586affd	COMPLETED	tar
+rothia_kristinae	Rothia kristinae		20261106-084604-c420b023	COMPLETED	tar
+rothia_mucilaginosa	Rothia mucilaginosa		20261103-202135-6e7fcfa9	COMPLETED	tar
+ruminococcus_torques	Mediterraneibacter torques	扭链瘤胃球菌	20261029-034241-ce4bec8e	COMPLETED	tar
+salmonella_enterica	Salmonella enterica		20261113-171939-37224c2c	COMPLETED	tar
+salmonella_enterica_enteritidis	Salmonella enterica Enteritidis	肠炎沙门菌	20261022-151055-db857127	COMPLETED	tar
+salmonella_enterica_paratyphi	Salmonella paratyphi		20261113-151050-50a33206	COMPLETED	tar
+salmonella_enterica_typhi	Salmonella enterica Typhi	伤寒沙门菌	20261022-094952-b5a0fc7c	COMPLETED	tar
+salmonella_enterica_typhimurium	Salmonella enterica Typhimurium	鼠伤寒沙门菌	20261022-141359-c7623268	COMPLETED	tar
+salmonella_spp	Salmonella	沙门菌属(食源)	20261019-112926-c7b7435d	COMPLETED	tar
+schaalia_meyeri	Schaalia meyeri	迈氏放线菌	20261115-220404-9c7c5b4b	COMPLETED	tar
+schaalia_odontolytica	Schaalia odontolytica		20261107-000134-e0caa95c	COMPLETED	tar
+schaalia_radingae	Schaalia radingae		20261105-180938-d7684c7f	COMPLETED	tar
+schaalia_turicensis	Schaalia turicensis		20261105-112811-eb70b6d8	COMPLETED	tar
+segatella_buccae	Segatella buccae		20261106-064842-468477fa	COMPLETED	tar
+segatella_copri	Segatella copri		20261107-133337-2e292cd5	COMPLETED	tar
+segatella_oris	Segatella oris		20261106-030214-36e135b7	COMPLETED	tar
+selenomonas_spp	Selenomonas ruminantium		20261114-085154-fd33ceca	COMPLETED	tar
+selenomonas_sputigena	Selenomonas sputigena	生痰月形单胞菌	20261107-184239-e455a6d1	COMPLETED	tar
+serratia_liquefaciens	Serratia liquefaciens	液化沙雷菌	20261103-074513-9ab9531d	COMPLETED	tar
+serratia_marcescens	Serratia marcescens	黏质沙雷菌		COMPLETED	tar
+shewanella_algae	Shewanella algae		20261115-100308-014e0e4b	COMPLETED	tar
+shiga_toxin_producing_e_coli	Escherichia coli O157:H7 (strain EC4115 / EHEC)		20261113-234534-18734c7c	COMPLETED	tar
+shigella_boydii	Shigella boydii	鲍氏志贺菌	20261020-133903-b664ec71	COMPLETED	tar
+shigella_dysenteriae	Shigella dysenteriae	痢疾志贺菌	20261015-155106-bd1a7c39	COMPLETED	tar
+shigella_flexneri	Shigella flexneri	福氏志贺菌	20261017-125204-ba09ce2d	COMPLETED	tar
+shigella_sonnei	Shigella sonnei	宋内志贺菌	20261020-164053-47a12f23	COMPLETED	tar
+slackia_exigua	Slackia exigua	微小斯氏菌	20261102-041815-aa099be7	COMPLETED	tar
+sneathia_amnii	Sneathia amnii		20261115-160842-728e4715	COMPLETED	tar
+solobacterium_moorei	Solobacterium moorei		20261029-155442-04e058e7	COMPLETED	tar
+sphingobacterium_multivorum	Sphingobacterium multivorum	多食鞘氨醇杆菌	20261114-213318-94c690b6	COMPLETED	tar
+sphingobacterium_spiritivorum	Sphingobacterium spiritivorum	食神鞘氨醇杆菌	20261115-105057-c97f8980	COMPLETED	tar
+sphingomonas_paucimobilis	Sphingomonas paucimobilis	少动鞘氨醇单胞菌	20261029-122332-c0363ece	COMPLETED	tar
+spirillum_minus	Bartonella quintana		20261116-062014-32e201c2	COMPLETED	tar
+staphylococcus_argenteus	Staphylococcus argenteus		20261115-030924-2951e219	COMPLETED	tar
+staphylococcus_aureus	Staphylococcus aureus	金葡菌(产肠毒素株)	20261014-195926-5222a192	COMPLETED	tar
+staphylococcus_aureus_2	Staphylococcus aureus		20261021-112448-561142a8	COMPLETED	tar
+staphylococcus_capitis	Staphylococcus capitis	头状葡萄球菌	20261105-235226-02f08d11	COMPLETED	tar
+staphylococcus_epidermidis	Staphylococcus epidermidis	表皮葡萄球菌	20261114-153959-4b129047	COMPLETED	tar
+staphylococcus_haemolyticus	Staphylococcus haemolyticus		20261021-185647-99fc805f	COMPLETED	tar
+staphylococcus_hominis	Staphylococcus hominis	人葡萄球菌	20261105-222509-9d5e6e80	COMPLETED	tar
+staphylococcus_intermedius	Staphylococcus intermedius	中间葡萄球菌	20261116-172654-b2cc54af	COMPLETED	tar
+staphylococcus_lugdunensis	Staphylococcus lugdunensis		20261116-113533-67416532	COMPLETED	tar
+staphylococcus_pasteuri	Staphylococcus pasteuri	巴氏葡萄球菌	20261106-011932-6eb371af	COMPLETED	tar
+staphylococcus_pseudintermedius	Staphylococcus pseudintermedius	假中间葡萄球菌	20261116-183154-2c0107dc	COMPLETED	tar
+staphylococcus_saprophyticus	Staphylococcus saprophyticus	腐生葡萄球菌	20261021-193054-183063a5	COMPLETED	tar
+staphylococcus_schleiferi	Staphylococcus schleiferi	施氏葡萄球菌	20261105-191203-5f02323f	COMPLETED	tar
+staphylococcus_warneri	Staphylococcus warneri	沃氏葡萄球菌	20261105-201028-ec40a84b	COMPLETED	tar
+stenotrophomonas_maltophilia	Stenotrophomonas maltophilia		20261113-220413-e0cfefc1	COMPLETED	tar
+stomatococcus_mucilaginosus	Stomatococcus mucilaginosus		20261103-202141-b7999d45	COMPLETED	tar
+streptobacillus_moniliformis	Streptobacillus moniliformis		20261116-031906-4963bc83	COMPLETED	tar
+streptococcus_agalactiae	Streptococcus agalactiae	无乳链球菌(B组)	20261021-032432-bf27256e	COMPLETED	tar
+streptococcus_anginosus_group	Streptococcus anginosus		20261114-110615-b5404ea4	COMPLETED	tar
+streptococcus_canis	Streptococcus canis	犬链球菌	20261107-101945-0855609a	COMPLETED	tar
+streptococcus_constellatus	Streptococcus constellatus	星座链球菌	20261106-100931-3bf5d64c	COMPLETED	tar
+streptococcus_dysgalactiae	Streptococcus dysgalactiae		20261116-201525-b0a1f76b	COMPLETED	tar
+streptococcus_equi	Streptococcus equi	马链球菌	20261021-212739-be1b0b73	COMPLETED	tar
+streptococcus_equi_subsp_zooepidemicus	Streptococcus equi subsp. zooepidemicus	马链球菌兽瘟亚种	20261105-093035-e7d9765c	COMPLETED	tar
+streptococcus_equinus	Streptococcus equinus	马肠链球菌	20261106-043813-4782d945	COMPLETED	tar
+streptococcus_gallolyticus	Streptococcus gallolyticus	解没食子酸链球菌	20261106-061745-af689261	COMPLETED	tar
+streptococcus_gallolyticus_2	Streptococcus gallolyticus		20261106-144642-02856c26	COMPLETED	tar
+streptococcus_gordonii	Streptococcus gordonii	戈登链球菌	20261107-014749-701219a5	COMPLETED	tar
+streptococcus_iniae	Streptococcus iniae	海豚链球菌	20261107-045610-10498e1e	COMPLETED	tar
+streptococcus_intermedius	Streptococcus intermedius	中间链球菌	20261106-022334-a27721a4	COMPLETED	tar
+streptococcus_mitis	Streptococcus mitis	缓症链球菌	20261106-132038-d9746ab4	COMPLETED	tar
+streptococcus_mutans	Streptococcus mutans	变异链球菌	20261106-220045-a7680cb8	COMPLETED	tar
+streptococcus_oralis	Streptococcus oralis	口腔链球菌	20261106-145952-80969b6c	COMPLETED	tar
+streptococcus_pneumoniae	Streptococcus pneumoniae	肺炎链球菌	20261011-022739-b41215f1	COMPLETED	tar
+streptococcus_pyogenes	Streptococcus pyogenes	化脓性链球菌(A组)	20261011-041713-c6f74f9a	COMPLETED	tar
+streptococcus_salivarius	Streptococcus salivarius	唾液链球菌	20261106-175145-31c8ff2a	COMPLETED	tar
+streptococcus_sanguinis	Streptococcus sanguinis	血链球菌	20261107-001545-f6f7b160	COMPLETED	tar
+streptococcus_suis	Streptococcus suis	猪链球菌	20261021-054058-1388b47a	COMPLETED	tar
+streptococcus_vestibularis	Streptococcus vestibularis	前庭链球菌	20261107-072127-2cac1ed0	COMPLETED	tar
+succinivibrio_dextrinosolvens	Succinivibrio dextrinosolvens	溶糊精琥珀酸弧菌	20261104-191236-3911ee7a	COMPLETED	tar
+sutterella_wadsworthensis	Sutterella wadsworthensis	沃氏萨特菌	20261104-212239-89f14187	COMPLETED	tar
+suttonella_indologenes	Suttonella indologenes		20261116-054403-2f66c1d3	COMPLETED	tar
+tannerella_forsythia	Tannerella forsythia	福赛坦纳菌	20261104-211713-6bd923c2	COMPLETED	tar
+tatumella_ptyseos	Tatumella ptyseos		20261101-212512-8666a472	COMPLETED	tar
+thomasclavelia_ramosa	Thomasclavelia ramosa		20261114-175711-59ec517e	COMPLETED	tar
+trabulsiella_guamensis	Trabulsiella guamensis		20261106-231809-a326c4b3	COMPLETED	tar
+treponema_carateum	Treponema pallidum		20261115-004246-9d46fd22	COMPLETED	tar
+treponema_denticola	Treponema denticola		20261107-145458-4dc36809	COMPLETED	tar
+treponema_pallidum	Treponema pallidum	梅毒螺旋体	20261019-141244-8af0aabb	COMPLETED	tar
+treponema_pallidum_endemicum	Treponema pallidum subsp. endemicum		20261114-180004-602d5c91	COMPLETED	tar
+treponema_pertenue	Treponema pallidum subsp. pertenue		20261114-214223-f499a60e	COMPLETED	tar
+tropheryma_whipplei	Tropheryma whipplei	惠普尔养障体	20261113-194839-5dc5d3ae	COMPLETED	tar
+trueperella_pyogenes	Trueperella pyogenes	化脓隐秘杆菌	20261113-170952-6ae002bd	COMPLETED	tar
+tsukamurella_paurometabola	Tsukamurella paurometabola		20261116-093653-86e12fc8	COMPLETED	tar
+tyzzerella_nexilis	Tyzzerella nexilis		20261105-205952-8dacf5e6	COMPLETED	tar
+ureaplasma_parvum	Ureaplasma parvum	微小脲原体	20261028-162957-52ab021a	COMPLETED	tar
+ureaplasma_urealyticum	Ureaplasma urealyticum	解脲脲原体	20261117-023734-6ba55157	COMPLETED	tar
+veillonella_parvula	Veillonella parvula	小韦荣球菌	20261102-143306-ca7879d4	COMPLETED	tar
+vibrio_alginolyticus	Vibrio alginolyticus	溶藻弧菌	20261027-165503-280c6a5a	COMPLETED	tar
+vibrio_cholerae	Vibrio cholerae		20261101-170546-2908fa38	COMPLETED	tar
+vibrio_cholerae_non_o1	Vibrio cholerae		20261114-072050-11171329	COMPLETED	tar
+vibrio_damsela	Vibrio vulnificus		20261115-065334-b6adeec0	COMPLETED	tar
+vibrio_fluvialis	Vibrio fluvialis	河弧菌	20261027-213751-6b589e47	COMPLETED	tar
+vibrio_metschnikovii	Vibrio metschnikovii		20261116-145725-a5db4f5f	COMPLETED	tar
+vibrio_mimicus	Vibrio mimicus	拟态弧菌	20261028-105815-5cde6437	COMPLETED	tar
+vibrio_parahaemolyticus	Vibrio parahaemolyticus		20261101-205858-8f2dc70d	COMPLETED	tar
+vibrio_vulnificus	Vibrio vulnificus	创伤弧菌	20261116-204632-18978a95	COMPLETED	tar
+weeksella_virosa	Weeksella virosa	有毒威克斯菌	20261115-142620-99a8b8ba	COMPLETED	tar
+winkia_neuii	Winkia neuii		20261105-132244-0f46cdc4	COMPLETED	tar
+yersinia_enterocolitica	Yersinia enterocolitica	小肠结肠炎耶尔森菌	20261020-153235-4e7b0396	COMPLETED	tar
+yersinia_pestis	Yersinia pestis	鼠疫耶尔森菌	20261017-165718-90bb4929	COMPLETED	tar
+yersinia_pseudotuberculosis	Yersinia pseudotuberculosis	假结核耶尔森菌	20261114-181019-6d91333c	COMPLETED	tar
+yokenella_regensburgei	Yokenella regensburgei		20261030-103023-a4d65f3c	COMPLETED	tar

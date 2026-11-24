@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>方法 · HOUYI atlas</title>
+<link rel="stylesheet" href="assets/style.css?v=20261117">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <span class="logo">H</span>
+      <span class="brandtxt"><b>HOUYI</b><small> antibacterial design atlas</small></span>
+    </a>
+    <nav><a href="index.html">总览</a><a href="browse.html">菌种库</a><a href="methods.html" class="on">方法</a><a href="download.html">下载</a><a class="lang" href="en/methods.html">EN</a></nav>
+  </div>
+</header>
+<main class="wrap">
+
+<div class="pagehead"><h1>方法与数据来源</h1><p class="lead">本库由 HOUYI 平台的 Ring 1–10 流程产出；站点内容直接来自原始运行结果，未作人工转录。</p></div><section class="card "><h3>流程（Ring 1–10）</h3><div class="tw"><table class="grid"><thead><tr><th>Ring</th><th>阶段</th><th>产出</th></tr></thead><tbody><tr><td>1</td><td>靶点分析</td><td>从 UniProt reviewed 蛋白中自动筛选细胞壁/膜相关靶点</td></tr><tr><td>2</td><td>结构预测</td><td>Chai-1 / 已有 PDB</td></tr><tr><td>3</td><td>Binder 设计</td><td>RFdiffusion 骨架生成</td></tr><tr><td>4</td><td>评分排序</td><td>ProteinMPNN + ESM-2 打分</td></tr><tr><td>5</td><td>输出 binder</td><td>AF2-Multimer 验证 + 分级（PRIMARY / SECONDARY / EXPERIMENTAL）</td></tr><tr><td>6</td><td>拼装载荷</td><td>Pdp1-NTD + linker + binder</td></tr><tr><td>7</td><td>尾纤维靶点分析</td><td>表面受体自动发现与打分</td></tr><tr><td>8</td><td>尾纤维 binder 筛选</td><td>天然 / de novo 双路线</td></tr><tr><td>9</td><td>重编程 pvc13</td><td>三段式 pvc13_N-linker-binder-linker-pvc13_C</td></tr><tr><td>10</td><td>注射器总装</td><td>pvc1–12 + 重编程 pvc13 + pvc14–16 + 载荷</td></tr></tbody></table></div></section><section class="card "><h3>数据粒度说明</h3><p class="small">本库同时收录两种粒度的数据：</p><ul class="small"><li><b>汇总级</b>：来自人工整理表（2026-10-21），含 Top1–3 候选、序列、评分与运行备注；</li><li><b>完整打包级</b>：来自每次运行的 <code>tar.gz</code>，含全部候选、AF2 指标、尾纤维候选、pvc13 重编程序列与纳米机器人组件。</li></ul><p class="small muted">页面上以「数据粒度」标签区分。后续新运行会优先以完整打包形式收录。</p></section><section class="card "><h3>可复现性</h3><dl class="kv"><dt>生成方式</dt><dd>所有页面由 <code>site_build/scripts/build_site.py</code> 从 <code>data/</code> 全量重建</dd><dt>数据真源</dt><dd><code>data/species.tsv</code>、<code>data/excel_runs.json</code>、<code>data/runs/*.json</code></dd><dt>版本</dt><dd>v0.2</dd><dt>构建日期</dt><dd>2026-11-24</dd></dl></section><section class="card "><h3>已知局限</h3><ul class="small"><li>分类来自 NCBI Taxonomy（2026-10 抓取），未与 GTDB 交叉校验；</li><li>所有结果为计算预测，<b>尚未经湿实验验证</b>；</li><li>无序列相似性检索（BLAST）功能，v0.2 视需要再加。</li></ul></section>
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <p>HOUYI 泛化验证资源库 · v0.2 · 数据持续补充中</p>
+    <p class="muted">数据来源：HOUYI Ring 1–10 计算流程；所有结果均为计算预测。</p>
+  </div>
+</footer>
+<script src="assets/app.js?v=20261117"></script>
+</body>
+</html>

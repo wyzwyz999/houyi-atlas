@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Methods · HOUYI atlas</title>
+<link rel="stylesheet" href="assets/style.css?v=20261117">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="index.html">
+      <span class="logo">H</span>
+      <span class="brandtxt"><b>HOUYI</b><small> antibacterial design atlas</small></span>
+    </a>
+    <nav><a href="index.html">Overview</a><a href="browse.html">Species</a><a href="methods.html" class="on">Methods</a><a href="download.html">Download</a><a class="lang" href="../methods.html">中文</a></nav>
+  </div>
+</header>
+<main class="wrap">
+
+<div class="pagehead"><h1>Methods & data sources</h1><p class="lead">This atlas is produced by the HOUYI Ring 1–10 pipeline; site content is generated directly from raw run outputs, without manual transcription.</p></div><section class="card "><h3>Pipeline (Ring 1–10)</h3><div class="tw"><table class="grid"><thead><tr><th>Ring</th><th>Stage</th><th>Output</th></tr></thead><tbody><tr><td>1</td><td>Target analysis</td><td>Automatic selection of cell-wall/membrane targets from UniProt reviewed proteins</td></tr><tr><td>2</td><td>Structure prediction</td><td>Chai-1 / existing PDB</td></tr><tr><td>3</td><td>Binder design</td><td>RFdiffusion backbone generation</td></tr><tr><td>4</td><td>Scoring</td><td>ProteinMPNN + ESM-2 Score</td></tr><tr><td>5</td><td>Binder output</td><td>AF2-Multimer validation + tiering (PRIMARY / SECONDARY / EXPERIMENTAL)</td></tr><tr><td>6</td><td>Payload assembly</td><td>Pdp1-NTD + linker + binder</td></tr><tr><td>7</td><td>Tail-fiber target analysis</td><td>automated surface-receptor discovery and scoring</td></tr><tr><td>8</td><td>Tail-fiber binder selection</td><td>natural and de novo routes</td></tr><tr><td>9</td><td>pvc13 reprogramming</td><td>three-segment pvc13_N-linker-binder-linker-pvc13_C</td></tr><tr><td>10</td><td>Nanomachine assembly</td><td>pvc1–12 + pvc13 reprogramming + pvc14–16 + payload</td></tr></tbody></table></div></section><section class="card "><h3>Data granularity</h3><p class="small">Two data levels are included:</p><ul class="small"><li><b>Summary level</b>：from manually curated sheets (2026-10-21), with Top1–3 candidates, sequences, scores and run notes;</li><li><b>Full-package level</b>：from each run's <code>tar.gz</code>，including all candidates, AF2 metrics, tail-fiber candidates, pvc13 reprogrammed sequences and nanomachine components.</li></ul><p class="small muted">The data level is shown as a badge; new runs are stored preferentially as full packages.</p></section><section class="card "><h3>Reproducibility</h3><dl class="kv"><dt>Generation</dt><dd>All pages rebuilt from <code>site_build/scripts/build_site.py</code> 从 <code>data/</code> by full rebuild</dd><dt>Data sources</dt><dd><code>data/species.tsv</code>、<code>data/excel_runs.json</code>、<code>data/runs/*.json</code></dd><dt>Version</dt><dd>v0.2</dd><dt>Build date</dt><dd>2026-11-24</dd></dl></section><section class="card "><h3>Known limitations</h3><ul class="small"><li>Taxonomy from NCBI Taxonomy (Oct 2026), not cross-checked with GTDB;</li><li>All results are computational predictions, <b>not yet validated experimentally</b>; </li><li>No BLAST search yet; it may be added in a later version.</li></ul></section>
+</main>
+<footer class="foot">
+  <div class="wrap">
+    <p>HOUYI generalization atlas · v0.2 · continuously updated</p>
+    <p class="muted">Data source: HOUYI Ring 1–10 pipeline. All results are computational predictions.</p>
+  </div>
+</footer>
+<script src="assets/app.js?v=20261117"></script>
+</body>
+</html>
